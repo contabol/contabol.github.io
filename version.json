@@ -1,7 +1,7 @@
 {
-  "version": "1.2.10",
-  "url": "https://contabol.github.io/contabol-1.2.10.zip",
-  "checksum": "8b0bee0eaaa2284f5ba60f56c81af5a833e149892f049af28eae0c107268c0c5",
-  "notes": "Apertura en verde en Movimientos, periodo en blanco y negro, filtros con color, panel elegido en morado",
-  "date": "2026-10-03T21:41:30.464Z"
+  "version": "1.2.11",
+  "url": "https://contabol.github.io/contabol-1.2.11.zip",
+  "checksum": "87527005861244661bf0577275e650d801f76f774006c93516924ffe22ca503f",
+  "notes": "Botón de apertura en Inicio, arriba de Movimientos recientes",
+  "date": "2026-10-03T21:46:21.187Z"
 }
