@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
-  "url": "https://gabrieldrawgames-jpg.github.io/contabol-actualizaciones/contabol-1.2.7.zip",
-  "checksum": "11ee290eb3605f37a83a546dea6d04534a0ef0b54962aac154beb3d7eef11837",
-  "notes": "Paneles de socios, saldo de apertura en dólares, el libro de la PC abre arriba",
-  "date": "2026-10-03T20:27:17.347Z"
+  "version": "1.2.8",
+  "url": "https://contabol.github.io/contabol-1.2.8.zip",
+  "checksum": "26f2d30dd71ddcba65a2d73552dbfce3c4f30c2fdfab9445870b43706ce239be",
+  "notes": "Contábol se muda a contabol.github.io",
+  "date": "2026-10-03T20:44:48.928Z"
 }
