@@ -1,7 +1,7 @@
 {
-  "version": "1.2.9",
-  "url": "https://contabol.github.io/contabol-1.2.9.zip",
-  "checksum": "bd5d637e1523fcb4916a1c151f846b1c3f222644f4eda43527ffc830e8742adb",
-  "notes": "Links ordenados: portada, /descargar y /panel",
-  "date": "2026-10-03T21:24:24.847Z"
+  "version": "1.2.10",
+  "url": "https://contabol.github.io/contabol-1.2.10.zip",
+  "checksum": "8b0bee0eaaa2284f5ba60f56c81af5a833e149892f049af28eae0c107268c0c5",
+  "notes": "Apertura en verde en Movimientos, periodo en blanco y negro, filtros con color, panel elegido en morado",
+  "date": "2026-10-03T21:41:30.464Z"
 }
