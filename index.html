@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Instalar Contábol</title>
+<meta name="description" content="Descarga e instala Contábol en tu teléfono Android.">
+<meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="icono.png">
+<style>
+  :root {
+    --canvas: #f3f4f6; --surface: #ffffff; --ink: #11151c; --muted: #5b6472; --line: #dfe3e8;
+    --action: #5b46d6; --action-ink: #ffffff; --note: #fff7e0; --note-line: #ecd9a0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --canvas: #0b0d11; --surface: #14181f; --ink: #eef1f5; --muted: #9aa3b1; --line: #252b35;
+      --action: #6c5ce7; --action-ink: #ffffff; --note: #221d10; --note-line: #4a3d17;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--canvas); color: var(--ink);
+    font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 560px; margin: 0 auto; padding: 40px 16px 56px; }
+  .app-icon { display: block; margin: 0 0 16px; border-radius: 16px; box-shadow: 0 1px 2px rgba(0,0,0,.12); }
+  h1 { margin: 0 0 6px; font-size: 30px; line-height: 1.15; letter-spacing: -.02em; }
+  .lead { margin: 0 0 24px; color: var(--muted); }
+  .download {
+    display: flex; align-items: center; justify-content: center; gap: 10px;
+    min-height: 56px; padding: 0 20px; border-radius: 999px;
+    background: var(--action); color: var(--action-ink); text-decoration: none;
+    font-weight: 650; font-size: 17px;
+  }
+  .meta { margin: 10px 0 0; text-align: center; font-size: 14px; color: var(--muted); }
+  section { margin-top: 32px; }
+  h2 { margin: 0 0 12px; font-size: 19px; }
+  ol { margin: 0; padding-left: 22px; display: grid; gap: 10px; }
+  li::marker { color: var(--muted); font-weight: 600; }
+  b { font-weight: 650; }
+  .card { padding: 16px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); }
+  .note { padding: 14px 16px; border-radius: 14px; background: var(--note); border: 1px solid var(--note-line); font-size: 15px; }
+  .note p { margin: 0; }
+  .note p + p { margin-top: 8px; }
+  .card a { color: var(--action); text-underline-offset: 3px; }
+  footer { margin-top: 36px; font-size: 14px; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <img class="app-icon" src="icono.png" width="72" height="72" alt="">
+  <h1>Contábol</h1>
+  <p class="lead">Tu contabilidad en bolívares, con el resultado en dólares a la tasa BCV. Tus datos se quedan solo en tu teléfono.</p>
+
+  <a class="download" href="Contabol.apk" download="Contabol.apk">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>
+    Descargar Contábol
+  </a>
+  <p class="meta">Versión 1.2.6 · Android 7 o superior · 6,5 MB</p>
+
+  <section>
+    <h2>Instalar</h2>
+    <div class="card">
+      <ol>
+        <li>Toca <b>Descargar Contábol</b> desde Chrome en tu teléfono. Si Chrome avisa que el archivo puede ser dañino, toca <b>Descargar de todas formas</b>: sale con cualquier app que no viene de Play Store.</li>
+        <li>Abre el archivo descargado. Si Android lo pide, permite <b>Instalar apps desconocidas</b> para Chrome.</li>
+        <li>Toca <b>Instalar</b>. Si Play Protect dice que no conoce la app, toca <b>Más detalles → Instalar de todas formas</b>.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section>
+    <h2>En la PC</h2>
+    <div class="card">
+      <ol>
+        <li>Abre <a href="app/"><b>Contábol para PC</b></a> en Chrome o Edge.</li>
+        <li>Entra con la <b>misma cuenta</b> que usas en el teléfono: verás los mismos movimientos, y lo que registres en uno aparece en el otro.</li>
+        <li>Para tenerla como programa, en la barra de direcciones toca el ícono de <b>Instalar</b> (o menú ⋮ → <b>Guardar y compartir → Instalar Contábol</b>).</li>
+      </ol>
+    </div>
+  </section>
+
+  <section>
+    <h2>¿Ya tenías Contábol 1.1 o anterior?</h2>
+    <div class="note">
+      <p>La versión 1.2 tiene una firma nueva, así que Android no la instala encima de la anterior. Es un cambio de una sola vez:</p>
+      <p><b>1.</b> En la app vieja ve a <b>Ajustes → Exportar respaldo</b> y guarda el archivo (en Drive o en Archivos). <b>2.</b> Desinstala Contábol. <b>3.</b> Instala la nueva con el botón de arriba. <b>4.</b> Abre <b>Ajustes → Importar respaldo</b> y elige el archivo.</p>
+      <p>Más fácil: si tu app ya muestra <b>Cuenta</b> en Ajustes, entra a tu cuenta antes de desinstalar. Tus movimientos quedan guardados y en la app nueva solo vuelves a entrar.</p>
+      <p>No desinstales sin exportar o sin entrar a tu cuenta: si no, tus movimientos solo existen en ese teléfono.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Actualizaciones</h2>
+    <p class="lead" style="margin:0">Después de instalarla, Contábol se actualiza sola al abrirla con internet. No hace falta volver a esta página.</p>
+  </section>
+
+  <footer>Aquí no se guarda ningún dato personal: solo están la app y sus actualizaciones.</footer>
+</main>
+</body>
+</html>
