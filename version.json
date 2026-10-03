@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8",
-  "url": "https://contabol.github.io/contabol-1.2.8.zip",
-  "checksum": "26f2d30dd71ddcba65a2d73552dbfce3c4f30c2fdfab9445870b43706ce239be",
-  "notes": "Contábol se muda a contabol.github.io",
-  "date": "2026-10-03T20:44:48.928Z"
+  "version": "1.2.9",
+  "url": "https://contabol.github.io/contabol-1.2.9.zip",
+  "checksum": "bd5d637e1523fcb4916a1c151f846b1c3f222644f4eda43527ffc830e8742adb",
+  "notes": "Links ordenados: portada, /descargar y /panel",
+  "date": "2026-10-03T21:24:24.847Z"
 }
