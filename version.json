@@ -1,7 +1,7 @@
 {
-  "version": "1.2.17",
-  "url": "https://contabol.github.io/contabol-1.2.17.zip",
-  "checksum": "7aa743d89433c9f3df693bb22043c6436663f99a1b610d548c2f5ad6a97a0310",
-  "notes": "Colaborador: las invitaciones aparecen solas (revisa cada 10 s) y botón Buscar invitaciones",
-  "date": "2026-10-04T22:04:20.974Z"
+  "version": "1.2.18",
+  "url": "https://contabol.github.io/contabol-1.2.18.zip",
+  "checksum": "70c6c3a743ae2016ceb62aa673684a5735b64a6506c33d00bff435e279557584",
+  "notes": "Colaborador: ve sus cierres y busca actualizaciones; empleados de toda la empresa con su sede al agregarlos",
+  "date": "2026-10-04T22:14:52.521Z"
 }
