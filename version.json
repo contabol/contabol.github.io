@@ -1,7 +1,7 @@
 {
-  "version": "1.2.13",
-  "url": "https://contabol.github.io/contabol-1.2.13.zip",
-  "checksum": "f3bd5ad1f22ac06bfce8bfaed92f1d58059953442491ecf01283014db366b7c8",
-  "notes": "Business Mode rediseñado: tablero propio, menú lateral, botón dorado y transición neón",
-  "date": "2026-10-04T05:50:21.386Z"
+  "version": "1.2.14",
+  "url": "https://contabol.github.io/contabol-1.2.14.zip",
+  "checksum": "005af950eb612589e283eb83db56225d1fed57ad26d8b7ab1b2cb848c047acb8",
+  "notes": "Business Mode: colores de cada empresa, navegación fija y acceso restringido con clave",
+  "date": "2026-10-04T06:09:52.819Z"
 }
