@@ -1,7 +1,7 @@
 {
-  "version": "1.2.15",
-  "url": "https://contabol.github.io/contabol-1.2.15.zip",
-  "checksum": "1e7b9977c0347fe8e8fce8bb902dacae5020de630ba78a52c7aefc5c354eec37",
-  "notes": "Business Mode: etiquetas de negocio, gráficas de utilidad e ingreso bruto, empleados y perfil Colaborador",
-  "date": "2026-10-04T21:10:21.448Z"
+  "version": "1.2.16",
+  "url": "https://contabol.github.io/contabol-1.2.16.zip",
+  "checksum": "6549754104fccd96ee58eadaf3bf2f4047572164f49b17e1d977084b6db501b4",
+  "notes": "Colaboradores sin modo anónimo: usuario, clave e ID de 6 dígitos",
+  "date": "2026-10-04T21:48:16.457Z"
 }
