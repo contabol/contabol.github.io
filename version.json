@@ -1,7 +1,7 @@
 {
-  "version": "1.2.14",
-  "url": "https://contabol.github.io/contabol-1.2.14.zip",
-  "checksum": "005af950eb612589e283eb83db56225d1fed57ad26d8b7ab1b2cb848c047acb8",
-  "notes": "Business Mode: colores de cada empresa, navegación fija y acceso restringido con clave",
-  "date": "2026-10-04T06:09:52.819Z"
+  "version": "1.2.15",
+  "url": "https://contabol.github.io/contabol-1.2.15.zip",
+  "checksum": "1e7b9977c0347fe8e8fce8bb902dacae5020de630ba78a52c7aefc5c354eec37",
+  "notes": "Business Mode: etiquetas de negocio, gráficas de utilidad e ingreso bruto, empleados y perfil Colaborador",
+  "date": "2026-10-04T21:10:21.448Z"
 }
