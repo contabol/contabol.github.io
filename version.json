@@ -1,7 +1,7 @@
 {
-  "version": "1.2.16",
-  "url": "https://contabol.github.io/contabol-1.2.16.zip",
-  "checksum": "6549754104fccd96ee58eadaf3bf2f4047572164f49b17e1d977084b6db501b4",
-  "notes": "Colaboradores sin modo anónimo: usuario, clave e ID de 6 dígitos",
-  "date": "2026-10-04T21:48:16.457Z"
+  "version": "1.2.17",
+  "url": "https://contabol.github.io/contabol-1.2.17.zip",
+  "checksum": "7aa743d89433c9f3df693bb22043c6436663f99a1b610d548c2f5ad6a97a0310",
+  "notes": "Colaborador: las invitaciones aparecen solas (revisa cada 10 s) y botón Buscar invitaciones",
+  "date": "2026-10-04T22:04:20.974Z"
 }
