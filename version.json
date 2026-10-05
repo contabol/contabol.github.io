@@ -1,7 +1,7 @@
 {
-  "version": "1.2.19",
-  "url": "https://contabol.github.io/contabol-1.2.19.zip",
-  "checksum": "7ae10ed12b48e4dfed3b1b832219bb6e5580872b8110bfb593fcc0e3052ec9a1",
-  "notes": "Business Mode: vista de empresa, menú en carpetas, pastel de utilidad, ventas por mes y Ajustes. Colaborador: un cierre por turno y su propia venta.",
-  "date": "2026-10-05T02:24:36.859Z"
+  "version": "1.2.20",
+  "url": "https://contabol.github.io/contabol-1.2.20.zip",
+  "checksum": "1337d18dc180f3099702490c801445c740f242e3d6cf3662ebe07f42891554f4",
+  "notes": "Business Mode: Empleados de todas las empresas, botón de colores, cuadros con brillo de la empresa, ventana limpia para nueva empresa. Colaborador: venta en Bs o en dólares.",
+  "date": "2026-10-05T03:27:28.992Z"
 }
