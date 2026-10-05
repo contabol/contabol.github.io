@@ -1,7 +1,7 @@
 {
-  "version": "1.2.20",
-  "url": "https://contabol.github.io/contabol-1.2.20.zip",
-  "checksum": "1337d18dc180f3099702490c801445c740f242e3d6cf3662ebe07f42891554f4",
-  "notes": "Business Mode: Empleados de todas las empresas, botón de colores, cuadros con brillo de la empresa, ventana limpia para nueva empresa. Colaborador: venta en Bs o en dólares.",
-  "date": "2026-10-05T03:27:28.992Z"
+  "version": "1.2.21",
+  "url": "https://contabol.github.io/contabol-1.2.21.zip",
+  "checksum": "743399f0e8591d49bacb65bbccea1c87490872eb1faddfdf4ee213bb31da69ef",
+  "notes": "Botón Business Mode naranja con facetas amarillas y estrellas más amarillas; partículas blancas con brillo en la entrada (tema oscuro).",
+  "date": "2026-10-05T04:34:19.874Z"
 }
