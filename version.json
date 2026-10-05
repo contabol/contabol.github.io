@@ -1,7 +1,7 @@
 {
-  "version": "1.2.22",
-  "url": "https://contabol.github.io/contabol-1.2.22.zip",
-  "checksum": "fe0749520d1272379e3679216dfd34dc26051fb3f3b2f0b965ee8757bc370db7",
-  "notes": "Eliminar empresa (pide la contraseña de la cuenta). Entrar con huella en el teléfono (necesita el APK 1.2.22).",
-  "date": "2026-10-05T04:44:48.769Z"
+  "version": "1.2.23",
+  "url": "https://contabol.github.io/contabol-1.2.23.zip",
+  "checksum": "101ce56ea9f74a7482db038c289779ee017944c608a47b37b3a28c0074902684",
+  "notes": "Business Mode abierto para todas las cuentas: se entra con la contraseña de la cuenta.",
+  "date": "2026-10-05T19:10:12.993Z"
 }
