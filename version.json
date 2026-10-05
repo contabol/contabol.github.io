@@ -1,7 +1,7 @@
 {
-  "version": "1.2.23",
-  "url": "https://contabol.github.io/contabol-1.2.23.zip",
-  "checksum": "101ce56ea9f74a7482db038c289779ee017944c608a47b37b3a28c0074902684",
-  "notes": "Business Mode abierto para todas las cuentas: se entra con la contraseña de la cuenta.",
-  "date": "2026-10-05T19:10:12.993Z"
+  "version": "1.2.24",
+  "url": "https://contabol.github.io/contabol-1.2.24.zip",
+  "checksum": "b2520bd393068672e76e5016f3965475081932153f47bce6b1e7e4e3b998e090",
+  "notes": "PC: en pantallas pequeñas los botones de arriba ya no se enciman; bajan a una segunda fila.",
+  "date": "2026-10-05T19:56:19.654Z"
 }
