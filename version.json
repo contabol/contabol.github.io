@@ -1,7 +1,7 @@
 {
-  "version": "1.2.18",
-  "url": "https://contabol.github.io/contabol-1.2.18.zip",
-  "checksum": "70c6c3a743ae2016ceb62aa673684a5735b64a6506c33d00bff435e279557584",
-  "notes": "Colaborador: ve sus cierres y busca actualizaciones; empleados de toda la empresa con su sede al agregarlos",
-  "date": "2026-10-04T22:14:52.521Z"
+  "version": "1.2.19",
+  "url": "https://contabol.github.io/contabol-1.2.19.zip",
+  "checksum": "7ae10ed12b48e4dfed3b1b832219bb6e5580872b8110bfb593fcc0e3052ec9a1",
+  "notes": "Business Mode: vista de empresa, menú en carpetas, pastel de utilidad, ventas por mes y Ajustes. Colaborador: un cierre por turno y su propia venta.",
+  "date": "2026-10-05T02:24:36.859Z"
 }
