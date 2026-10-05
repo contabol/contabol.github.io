@@ -1,7 +1,7 @@
 {
-  "version": "1.2.21",
-  "url": "https://contabol.github.io/contabol-1.2.21.zip",
-  "checksum": "743399f0e8591d49bacb65bbccea1c87490872eb1faddfdf4ee213bb31da69ef",
-  "notes": "Botón Business Mode naranja con facetas amarillas y estrellas más amarillas; partículas blancas con brillo en la entrada (tema oscuro).",
-  "date": "2026-10-05T04:34:19.874Z"
+  "version": "1.2.22",
+  "url": "https://contabol.github.io/contabol-1.2.22.zip",
+  "checksum": "fe0749520d1272379e3679216dfd34dc26051fb3f3b2f0b965ee8757bc370db7",
+  "notes": "Eliminar empresa (pide la contraseña de la cuenta). Entrar con huella en el teléfono (necesita el APK 1.2.22).",
+  "date": "2026-10-05T04:44:48.769Z"
 }
