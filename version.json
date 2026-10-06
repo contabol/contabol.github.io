@@ -1,7 +1,7 @@
 {
-  "version": "1.2.24",
-  "url": "https://contabol.github.io/contabol-1.2.24.zip",
-  "checksum": "b2520bd393068672e76e5016f3965475081932153f47bce6b1e7e4e3b998e090",
-  "notes": "PC: en pantallas pequeñas los botones de arriba ya no se enciman; bajan a una segunda fila.",
-  "date": "2026-10-05T19:56:19.654Z"
+  "version": "1.2.25",
+  "url": "https://contabol.github.io/contabol-1.2.25.zip",
+  "checksum": "a41a0ed8c29b926e7ee7f74d9f114ba9dd491bfe0bb88b2d60f621443facb510",
+  "notes": "Colaborador: el cierre de ventas registra también dólares en Zelle; Agregar venta queda deshabilitado.",
+  "date": "2026-10-06T19:17:17.379Z"
 }
