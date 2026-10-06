@@ -1,7 +1,7 @@
 {
-  "version": "1.2.26",
-  "url": "https://contabol.github.io/contabol-1.2.26.zip",
-  "checksum": "41fb2195a6a591e6fb42af0def38a1716bcc45bd5cb11869b7c2b8953887ee46",
-  "notes": "Cada socio elige su moneda; borrar varios en la PC pasa a la contraseña si Windows Hello falla; pago de comisión crea su egreso; tamaño según la pantalla; márgenes de la barra de notificaciones y de navegación.",
-  "date": "2026-10-06T21:19:47.968Z"
+  "version": "1.2.27",
+  "url": "https://contabol.github.io/contabol-1.2.27.zip",
+  "checksum": "eb9067277c82f5e5bb07571574cbb975ff564e30e1f3caee4757a95315b21a89",
+  "notes": "Márgenes de las barras del sistema vueltos a como estaban (temporal, para comparar).",
+  "date": "2026-10-06T21:26:49.591Z"
 }
