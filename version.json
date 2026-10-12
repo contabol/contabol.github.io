@@ -1,7 +1,7 @@
 {
-  "version": "1.2.28",
-  "url": "https://contabol.github.io/contabol-1.2.28.zip",
-  "checksum": "5dade95a4eba80af72117012a2e0fc294a63aa75a8b2e13e8f5b5047188e92a7",
-  "notes": "Business Mode: el resultado del mes dice 'en bolívares durante el mes'.",
-  "date": "2026-10-12T23:11:30.696Z"
+  "version": "1.2.29",
+  "url": "https://contabol.github.io/contabol-1.2.29.zip",
+  "checksum": "6239bf00924f55ac2f561e6d5419de764b86f54294ebb3d86ac4849ca2997f21",
+  "notes": "Márgenes de las barras solo cuando la app queda debajo de ellas; tamaño completo en teléfonos; indicadores y cabecera de Empleados sin cortes; Business: alternar $ y Bs al registrar; moneda del socio en la barra de la PC; pagos de comisión visibles. APK 1.2.29: la letra grande del sistema no desborda la app.",
+  "date": "2026-10-12T23:35:57.625Z"
 }
