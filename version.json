@@ -1,7 +1,7 @@
 {
-  "version": "1.2.29",
-  "url": "https://contabol.github.io/contabol-1.2.29.zip",
-  "checksum": "6239bf00924f55ac2f561e6d5419de764b86f54294ebb3d86ac4849ca2997f21",
-  "notes": "Márgenes de las barras solo cuando la app queda debajo de ellas; tamaño completo en teléfonos; indicadores y cabecera de Empleados sin cortes; Business: alternar $ y Bs al registrar; moneda del socio en la barra de la PC; pagos de comisión visibles. APK 1.2.29: la letra grande del sistema no desborda la app.",
-  "date": "2026-10-12T23:35:57.625Z"
+  "version": "1.2.30",
+  "url": "https://contabol.github.io/contabol-1.2.30.zip",
+  "checksum": "06d06e9476ffd429b8574204d7a35737d7d0cfd659a5151be71b1122f3e9809d",
+  "notes": "Business Mode: entrar y eliminar con huella; eliminar sede; cambiar nombre de empresa y sede; el libro de movimientos ya no traba la rueda del mouse; registrar en Bs, divisas o Zelle (también el pago de comisión); 'Ver movimientos' abre el desglose del saldo en bolívares, efectivo y Zelle.",
+  "date": "2026-10-16T19:13:12.073Z"
 }
