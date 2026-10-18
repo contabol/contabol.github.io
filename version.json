@@ -1,7 +1,7 @@
 {
-  "version": "1.2.30",
-  "url": "https://contabol.github.io/contabol-1.2.30.zip",
-  "checksum": "06d06e9476ffd429b8574204d7a35737d7d0cfd659a5151be71b1122f3e9809d",
-  "notes": "Business Mode: entrar y eliminar con huella; eliminar sede; cambiar nombre de empresa y sede; el libro de movimientos ya no traba la rueda del mouse; registrar en Bs, divisas o Zelle (también el pago de comisión); 'Ver movimientos' abre el desglose del saldo en bolívares, efectivo y Zelle.",
-  "date": "2026-10-16T19:13:12.073Z"
+  "version": "1.2.31",
+  "url": "https://contabol.github.io/contabol-1.2.31.zip",
+  "checksum": "ac05175c58669f4a00f41831d367025d380e4bd1a09baa3671df75747e9d8d15",
+  "notes": "Business: el desglose de 'Ver movimientos' muestra solo los ingresos, todo en dólares (Bs a la tasa BCV; divisas y Zelle tal cual) y por periodo; los ingresos se registran en la moneda de la sede; tocar una etiqueta de la torta abre sus movimientos. Paneles personales extra. Borrado automático de los movimientos personales (1, 3 o 6 meses, con 7 días de aviso). Los textos fijos ya no se seleccionan al mantenerlos presionados.",
+  "date": "2026-10-18T02:45:26.311Z"
 }
