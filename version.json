@@ -1,7 +1,7 @@
 {
-  "version": "1.2.32",
-  "url": "https://contabol.github.io/contabol-1.2.32.zip",
-  "checksum": "cf773106e69bbc93e49b87459a06e3b761bc52d281c4c45134b5f79e7862a154",
-  "notes": "Preparación para los planes pagos: los avisos de límite de plan se muestran claros. Todo sigue abierto para todos.",
-  "date": "2026-10-18T04:06:02.518Z"
+  "version": "1.2.33",
+  "url": "https://contabol.github.io/contabol-1.2.33.zip",
+  "checksum": "42236db2b960836582833366e5c2a6d74fd5165b94397b94640fe850d3512e78",
+  "notes": "Business: invitar socios (por usuario o correo, eligiendo empresas y permiso), campanita de notificaciones (invitaciones, cierres de ventas y versiones nuevas), engranaje de Ajustes en la esquina, ingresos y egresos con Bs/Divisas/Zelle empezando en Bs, periodos en 'Ver movimientos'. PC: calendario propio para la fecha personalizada; el botón del Business Mode solo arriba.",
+  "date": "2026-10-19T01:20:28.694Z"
 }
