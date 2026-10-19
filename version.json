@@ -1,7 +1,7 @@
 {
-  "version": "1.2.34",
-  "url": "https://contabol.github.io/contabol-1.2.34.zip",
-  "checksum": "aab6747b2c88e83a4e022f4ce22bd5d81dda14800045569e171b1e153dbce62b",
-  "notes": "Business en el teléfono: el engranaje de Ajustes queda solo en la barra de abajo.",
-  "date": "2026-10-19T01:27:18.563Z"
+  "version": "1.2.35",
+  "url": "https://contabol.github.io/contabol-1.2.35.zip",
+  "checksum": "a517ba4cd03f2960ec0ce71b3140fb591ea9878dc4322339288c62ff5fcfcb73",
+  "notes": "Cambio de tema más fluido: el aro de la onda se dibuja del tamaño de la pantalla (en el teléfono ya no salen bloques que parpadean).",
+  "date": "2026-10-19T01:33:08.591Z"
 }
