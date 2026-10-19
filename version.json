@@ -1,7 +1,7 @@
 {
-  "version": "1.2.33",
-  "url": "https://contabol.github.io/contabol-1.2.33.zip",
-  "checksum": "42236db2b960836582833366e5c2a6d74fd5165b94397b94640fe850d3512e78",
-  "notes": "Business: invitar socios (por usuario o correo, eligiendo empresas y permiso), campanita de notificaciones (invitaciones, cierres de ventas y versiones nuevas), engranaje de Ajustes en la esquina, ingresos y egresos con Bs/Divisas/Zelle empezando en Bs, periodos en 'Ver movimientos'. PC: calendario propio para la fecha personalizada; el botón del Business Mode solo arriba.",
-  "date": "2026-10-19T01:20:28.694Z"
+  "version": "1.2.34",
+  "url": "https://contabol.github.io/contabol-1.2.34.zip",
+  "checksum": "aab6747b2c88e83a4e022f4ce22bd5d81dda14800045569e171b1e153dbce62b",
+  "notes": "Business en el teléfono: el engranaje de Ajustes queda solo en la barra de abajo.",
+  "date": "2026-10-19T01:27:18.563Z"
 }
