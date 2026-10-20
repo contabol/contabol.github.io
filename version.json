@@ -1,7 +1,7 @@
 {
-  "version": "1.2.38",
-  "url": "https://contabol.github.io/contabol-1.2.38.zip",
-  "checksum": "717ece497353599c6fb73422bdfcc0752f6707abb87b7d5d1c081519b6f61211",
-  "notes": "Editar etiquetas: junto a la papelera hay un lápiz para cambiarle el nombre y el emoji a cualquier etiqueta, también a las de fábrica.",
-  "date": "2026-10-20T02:36:39.663Z"
+  "version": "1.2.39",
+  "url": "https://contabol.github.io/contabol-1.2.39.zip",
+  "checksum": "31a49d21b7ec86ddd513c79228115a23b10e1cb5e53b725864a9a22ace3c1c9b",
+  "notes": "Empleados en el teléfono: la campanita arriba y \"Por mes\" / \"Agregar\" en la fila de abajo, sin montarse. El desglose de ingresos por moneda queda solo para ver (los movimientos se editan desde Movimientos).",
+  "date": "2026-10-20T02:51:30.542Z"
 }
