@@ -1,7 +1,7 @@
 {
-  "version": "1.2.36",
-  "url": "https://contabol.github.io/contabol-1.2.36.zip",
-  "checksum": "604aa147b506d73fee53f5429ad7b4934130d206230f54089f3217d6a46f002c",
-  "notes": "Etiquetas con emoji 3D: crear con nombre y emoji, y borrar cualquiera (eligiendo a dónde pasan sus movimientos). Egresos en rojo. Al recargar sigues donde estabas (también en el Business Mode). En el navegador, al volver a la pestaña se aplica sola la versión nueva.",
-  "date": "2026-10-20T02:15:39.290Z"
+  "version": "1.2.37",
+  "url": "https://contabol.github.io/contabol-1.2.37.zip",
+  "checksum": "5beb4a15e3ba96d1a67e55b595a8bc8d933398c67d7ca005b4a4071bc95436f0",
+  "notes": "Gráfica de utilidad y Reportes: salen todas las etiquetas con movimientos (ya no se juntan en un segundo \"Otros gastos\").",
+  "date": "2026-10-20T02:30:06.986Z"
 }
