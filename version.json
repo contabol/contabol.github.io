@@ -1,7 +1,7 @@
 {
-  "version": "1.2.37",
-  "url": "https://contabol.github.io/contabol-1.2.37.zip",
-  "checksum": "5beb4a15e3ba96d1a67e55b595a8bc8d933398c67d7ca005b4a4071bc95436f0",
-  "notes": "Gráfica de utilidad y Reportes: salen todas las etiquetas con movimientos (ya no se juntan en un segundo \"Otros gastos\").",
-  "date": "2026-10-20T02:30:06.986Z"
+  "version": "1.2.38",
+  "url": "https://contabol.github.io/contabol-1.2.38.zip",
+  "checksum": "717ece497353599c6fb73422bdfcc0752f6707abb87b7d5d1c081519b6f61211",
+  "notes": "Editar etiquetas: junto a la papelera hay un lápiz para cambiarle el nombre y el emoji a cualquier etiqueta, también a las de fábrica.",
+  "date": "2026-10-20T02:36:39.663Z"
 }
