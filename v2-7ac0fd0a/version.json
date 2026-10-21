@@ -1,7 +1,7 @@
 {
-  "version": "2.0.4",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.4.zip",
-  "checksum": "bc37ff1e7cb65c4fd6cfda187479a49bd14a6f19848cd90e15abecc0883b8a5a",
-  "notes": "Pestaña activa en cápsula, flechas inclinadas, amarillo también en claro, márgenes en las tarjetas, meses sin montarse, Apertura del tamaño del '+', pulsación en '+', Apertura y campanita, ventana de la tasa con la gráfica de Inicio, todas las ventanas con el mismo acabado, verde y rojo más vivos.",
-  "date": "2026-10-21T04:28:17.370Z"
+  "version": "2.0.5",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.5.zip",
+  "checksum": "2c11daa7cfd891c9e28a4aea2408c4abf0cb16327edd2dca4a670b54f78bda7f",
+  "notes": "Resaltado de la barra que se desliza entre secciones; ventanas con fundido y deslizamiento al abrir y cerrar (cierre como se cierre); tasa BCV con margen fijo y reacomodo en pantallas angostas.",
+  "date": "2026-10-21T04:43:25.051Z"
 }
