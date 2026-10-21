@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.6.zip",
-  "checksum": "c18585b674b35864bce31f767f8b758cc6def12392967b7615e726606e15b6d6",
-  "notes": "Entrada de las ventanas más suave; la tasa BCV en Inicio vuelve a ser una franja (la gráfica está al tocarla); el teclado ya no se abre solo en las ventanas de movimientos; campanita más grande.",
-  "date": "2026-10-21T04:55:56.952Z"
+  "version": "2.0.7",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.7.zip",
+  "checksum": "4185254265ea4eff472281a8efdac46fb3563ae2fc20ece31ed9e837ef26b305",
+  "notes": "Ajustes → Probar notificaciones: botones para mandar avisos de prueba a la campanita (cierre de ventas, invitación, versión nueva). Solo en este equipo.",
+  "date": "2026-10-21T05:03:22.460Z"
 }
