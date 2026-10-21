@@ -1,7 +1,7 @@
 {
-  "version": "2.0.3",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.3.zip",
-  "checksum": "223e10e591bd85af0af06729149be74207a389e2284c207af79405a30d9cd3df",
-  "notes": "Estética: nombres debajo de los iconos de la barra, barra con brillo y sombra, '+' con degradado animado y toque instantáneo, ventanas flotantes, modo oscuro más lujoso, cifras en dorado, gráfica del resultado nueva, ingresos/egresos con flechas y sombras de color, botones redondos con brillo, Apertura en disco grande.",
-  "date": "2026-10-21T04:09:25.989Z"
+  "version": "2.0.4",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.4.zip",
+  "checksum": "bc37ff1e7cb65c4fd6cfda187479a49bd14a6f19848cd90e15abecc0883b8a5a",
+  "notes": "Pestaña activa en cápsula, flechas inclinadas, amarillo también en claro, márgenes en las tarjetas, meses sin montarse, Apertura del tamaño del '+', pulsación en '+', Apertura y campanita, ventana de la tasa con la gráfica de Inicio, todas las ventanas con el mismo acabado, verde y rojo más vivos.",
+  "date": "2026-10-21T04:28:17.370Z"
 }
