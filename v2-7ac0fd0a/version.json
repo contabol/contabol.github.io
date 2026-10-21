@@ -1,7 +1,7 @@
 {
-  "version": "2.0.5",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.5.zip",
-  "checksum": "2c11daa7cfd891c9e28a4aea2408c4abf0cb16327edd2dca4a670b54f78bda7f",
-  "notes": "Resaltado de la barra que se desliza entre secciones; ventanas con fundido y deslizamiento al abrir y cerrar (cierre como se cierre); tasa BCV con margen fijo y reacomodo en pantallas angostas.",
-  "date": "2026-10-21T04:43:25.051Z"
+  "version": "2.0.6",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.6.zip",
+  "checksum": "c18585b674b35864bce31f767f8b758cc6def12392967b7615e726606e15b6d6",
+  "notes": "Entrada de las ventanas más suave; la tasa BCV en Inicio vuelve a ser una franja (la gráfica está al tocarla); el teclado ya no se abre solo en las ventanas de movimientos; campanita más grande.",
+  "date": "2026-10-21T04:55:56.952Z"
 }
