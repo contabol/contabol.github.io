@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.2.zip",
-  "checksum": "bf5f4f38a32ad236bf7762e7d5c2699effd1a566bb7378ec79b3bd036d0c0c03",
-  "notes": "Estética nueva: barra de abajo con iconos animados, botón Agregar nuevo, campanita animada, tarjeta de la tasa BCV con gráfica (7/30/90 días) primero en Inicio, ingresos y egresos con los bolívares en azul, Apertura y huella animadas.",
-  "date": "2026-10-21T03:36:18.864Z"
+  "version": "2.0.3",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.3.zip",
+  "checksum": "223e10e591bd85af0af06729149be74207a389e2284c207af79405a30d9cd3df",
+  "notes": "Estética: nombres debajo de los iconos de la barra, barra con brillo y sombra, '+' con degradado animado y toque instantáneo, ventanas flotantes, modo oscuro más lujoso, cifras en dorado, gráfica del resultado nueva, ingresos/egresos con flechas y sombras de color, botones redondos con brillo, Apertura en disco grande.",
+  "date": "2026-10-21T04:09:25.989Z"
 }
