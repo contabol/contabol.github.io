@@ -1,7 +1,7 @@
 {
-  "version": "2.0.7",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.7.zip",
-  "checksum": "4185254265ea4eff472281a8efdac46fb3563ae2fc20ece31ed9e837ef26b305",
-  "notes": "Ajustes → Probar notificaciones: botones para mandar avisos de prueba a la campanita (cierre de ventas, invitación, versión nueva). Solo en este equipo.",
-  "date": "2026-10-21T05:03:22.460Z"
+  "version": "2.0.8",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.8.zip",
+  "checksum": "2e1094d273cff4eb9bb5fe224220a4f4a3eee07b529d098d9a6625bcf5b6ffc3",
+  "notes": "Arreglado el pantallazo al seleccionar movimientos; pantallas vacías nuevas; la barra no sube con el teclado; Ajustes con foto, plan y cerrar sesión al final; lápiz en Paneles; ventanas sin parpadeo; modo automático; entrar con Google; barras nuevas en Reportes",
+  "date": "2026-10-22T20:19:51.670Z"
 }

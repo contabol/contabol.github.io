@@ -10,10 +10,27 @@
     <meta name="description" content="Contabilidad de tu negocio en bolívares, con el resultado en dólares a la tasa BCV." />
     <link rel="manifest" href="./manifest.webmanifest" />
     <title>Contábol</title>
-    <script type="module" crossorigin src="./assets/index-CR5YaOK9.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CFEb4IjD.css">
+    <script>
+      // El modo (claro u oscuro) se pone antes de dibujar nada, así la app abre directo en el que corresponde.
+      // V2: una sola vez, cada equipo vuelve a "Automático" (el modo del teléfono o la PC); después se respeta lo que elija.
+      try {
+        var doc = JSON.parse(localStorage.getItem('contabol:v1') || 'null')
+        if (!localStorage.getItem('contabol:v2:tema-auto')) {
+          if (doc && doc.settings && doc.settings.theme && doc.settings.theme !== 'system') {
+            doc.settings.theme = 'system'
+            localStorage.setItem('contabol:v1', JSON.stringify(doc))
+          }
+          localStorage.setItem('contabol:v2:tema-auto', '1')
+        }
+        var theme = (doc && doc.settings && doc.settings.theme) || 'system'
+        if (theme === 'system') theme = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+        document.documentElement.setAttribute('data-theme', theme)
+      } catch (e) {}
+    </script>
+    <script type="module" crossorigin src="./assets/index-PaZhtwnf.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CK6Sgich.css">
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root"></div>
   </body>
 </html>
