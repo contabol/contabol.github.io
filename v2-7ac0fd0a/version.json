@@ -1,7 +1,7 @@
 {
-  "version": "2.0.10",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.10.zip",
-  "checksum": "17cc63b87bcd1353237452c5de910f0b832de631cbc3268835a30e7177caa134",
-  "notes": "Entrar con Google: el aviso de error dice el motivo",
-  "date": "2026-10-23T02:44:41.299Z"
+  "version": "2.0.11",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.11.zip",
+  "checksum": "8fff7a95860242b6432995475faee395e569b2b52ed7ff7d95eab9bc3a54577b",
+  "notes": "Entrar con Google: arreglado el error de permisos en Android",
+  "date": "2026-10-23T04:27:57.760Z"
 }
