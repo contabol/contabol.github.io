@@ -1,7 +1,7 @@
 {
-  "version": "2.0.14",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.14.zip",
-  "checksum": "50404e756670934cc550a88e2cf4982b571e2bff5d5aa32d057fc5da3ea5fb55",
-  "notes": "Cuadro vacío con la carpeta 3D; botones redondos para etiquetas y monedas; ingresos en verde en Reportes",
-  "date": "2026-10-23T21:44:31.643Z"
+  "version": "2.0.15",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.15.zip",
+  "checksum": "3e66fc1ce352a2dc151a4547763fb636e592a39ef97561a2f15d14cda2848247",
+  "notes": "Ajustes por botones (Cuenta con foto y usuario, Mi plan); burbuja de cristal; monedas sin rebote; sin entrar con huella; total y tasa en negro/blanco; campanita en Movimientos y Reportes",
+  "date": "2026-10-23T22:40:43.597Z"
 }
