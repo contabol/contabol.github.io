@@ -1,7 +1,7 @@
 {
-  "version": "2.0.9",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.9.zip",
-  "checksum": "feaafcceea1a34f84b3042e988fda0facb756c5cd8dd76630594136eae05fe39",
-  "notes": "Entrar con Google activado",
-  "date": "2026-10-23T02:39:59.525Z"
+  "version": "2.0.10",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.10.zip",
+  "checksum": "17cc63b87bcd1353237452c5de910f0b832de631cbc3268835a30e7177caa134",
+  "notes": "Entrar con Google: el aviso de error dice el motivo",
+  "date": "2026-10-23T02:44:41.299Z"
 }
