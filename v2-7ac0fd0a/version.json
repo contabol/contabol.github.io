@@ -1,7 +1,7 @@
 {
-  "version": "2.0.8",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.8.zip",
-  "checksum": "2e1094d273cff4eb9bb5fe224220a4f4a3eee07b529d098d9a6625bcf5b6ffc3",
-  "notes": "Arreglado el pantallazo al seleccionar movimientos; pantallas vacías nuevas; la barra no sube con el teclado; Ajustes con foto, plan y cerrar sesión al final; lápiz en Paneles; ventanas sin parpadeo; modo automático; entrar con Google; barras nuevas en Reportes",
-  "date": "2026-10-22T20:19:51.670Z"
+  "version": "2.0.9",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.9.zip",
+  "checksum": "feaafcceea1a34f84b3042e988fda0facb756c5cd8dd76630594136eae05fe39",
+  "notes": "Entrar con Google activado",
+  "date": "2026-10-23T02:39:59.525Z"
 }
