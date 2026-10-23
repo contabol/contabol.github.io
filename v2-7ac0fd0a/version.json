@@ -1,7 +1,7 @@
 {
-  "version": "2.0.13",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.13.zip",
-  "checksum": "b4e23c2cf7615f5ca319e00c96f45f873fa55a66ead295d6125843e92a919bf5",
-  "notes": "Entrar con Google: corregido el ID de cliente web",
-  "date": "2026-10-23T20:56:38.903Z"
+  "version": "2.0.14",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.14.zip",
+  "checksum": "50404e756670934cc550a88e2cf4982b571e2bff5d5aa32d057fc5da3ea5fb55",
+  "notes": "Cuadro vacío con la carpeta 3D; botones redondos para etiquetas y monedas; ingresos en verde en Reportes",
+  "date": "2026-10-23T21:44:31.643Z"
 }
