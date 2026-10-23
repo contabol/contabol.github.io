@@ -1,7 +1,7 @@
 {
-  "version": "2.0.12",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.12.zip",
-  "checksum": "28f27bb5b54bf4b36a0fee93e212ffde00e57a466994a5ef77f13c1621c8876a",
-  "notes": "Botones de moneda con iconos (Bs, Divisas, Zelle); abre al momento sin conexión; emoji de Zelle para las etiquetas",
-  "date": "2026-10-23T05:29:08.229Z"
+  "version": "2.0.13",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.13.zip",
+  "checksum": "b4e23c2cf7615f5ca319e00c96f45f873fa55a66ead295d6125843e92a919bf5",
+  "notes": "Entrar con Google: corregido el ID de cliente web",
+  "date": "2026-10-23T20:56:38.903Z"
 }
