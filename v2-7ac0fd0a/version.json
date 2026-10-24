@@ -1,7 +1,7 @@
 {
-  "version": "2.0.17",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.17.zip",
-  "checksum": "bc09cd5a636555bb6d28fc3123a938e2c318dc4971a2bcc7eb6a430c43f823b6",
-  "notes": "Barra: las secciones miden lo mismo (los iconos no se mueven) y quedan a 7 px de las puntas; buscador cerrado ya no recibe texto",
-  "date": "2026-10-24T01:02:26.482Z"
+  "version": "2.0.18",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.18.zip",
+  "checksum": "7bffb982dd50f95e606e5d0afea18be640393facea0e60e2955bb73c07ba3e35",
+  "notes": "La gráfica de la tasa ya no salta al cambiar de periodo. En Paneles, una franja muestra lo que incluye tu plan (Gratis o Básico) y avisa al llegar al límite.",
+  "date": "2026-10-24T04:55:25.510Z"
 }
