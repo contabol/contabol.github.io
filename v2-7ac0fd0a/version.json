@@ -1,7 +1,7 @@
 {
-  "version": "2.0.15",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.15.zip",
-  "checksum": "3e66fc1ce352a2dc151a4547763fb636e592a39ef97561a2f15d14cda2848247",
-  "notes": "Ajustes por botones (Cuenta con foto y usuario, Mi plan); burbuja de cristal; monedas sin rebote; sin entrar con huella; total y tasa en negro/blanco; campanita en Movimientos y Reportes",
-  "date": "2026-10-23T22:40:43.597Z"
+  "version": "2.0.16",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.16.zip",
+  "checksum": "2de70b83f9099632540b3934bfcc485b6548cbd05fa19367c69aaffe906debb5",
+  "notes": "Apariencia de primero; selectores y Todos con el degradado del +; verde y rojo en degradado; bloqueo con huella; buscador nuevo; Business Mode con candado y plan Pro dorado; monedas del panel con iconos; Cancelar en cápsula",
+  "date": "2026-10-24T00:45:12.878Z"
 }
