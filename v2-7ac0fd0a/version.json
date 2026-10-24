@@ -1,7 +1,7 @@
 {
-  "version": "2.0.20",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.20.zip",
-  "checksum": "61f34b2e3b77bed974208cc56ef64ad60bbd9396c51cc99b3c62803176c744e6",
-  "notes": "Modo personal con tarjetas de vidrio sobre una estela animada con los colores de la app.",
-  "date": "2026-10-24T22:27:59.207Z"
+  "version": "2.0.21",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.21.zip",
+  "checksum": "c56c06dfe26508d7f5b2acaeeaf89bb86b0123798db8650524826dcfd5906082",
+  "notes": "Business Mode: cifras de arriba en tarjetas de vidrio, barras de ingreso bruto sólidas y colores del anillo que no se confunden con la utilidad. Modo personal: vidrio más oscuro en modo oscuro, discos y buscador de vidrio, grises más legibles y la estela ya no se mueve al abrir el teclado.",
+  "date": "2026-10-24T22:41:01.784Z"
 }
