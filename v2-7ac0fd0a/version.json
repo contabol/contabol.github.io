@@ -1,7 +1,7 @@
 {
-  "version": "2.0.16",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.16.zip",
-  "checksum": "2de70b83f9099632540b3934bfcc485b6548cbd05fa19367c69aaffe906debb5",
-  "notes": "Apariencia de primero; selectores y Todos con el degradado del +; verde y rojo en degradado; bloqueo con huella; buscador nuevo; Business Mode con candado y plan Pro dorado; monedas del panel con iconos; Cancelar en cápsula",
-  "date": "2026-10-24T00:45:12.878Z"
+  "version": "2.0.17",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.17.zip",
+  "checksum": "bc09cd5a636555bb6d28fc3123a938e2c318dc4971a2bcc7eb6a430c43f823b6",
+  "notes": "Barra: las secciones miden lo mismo (los iconos no se mueven) y quedan a 7 px de las puntas; buscador cerrado ya no recibe texto",
+  "date": "2026-10-24T01:02:26.482Z"
 }
