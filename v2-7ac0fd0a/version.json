@@ -1,7 +1,7 @@
 {
-  "version": "2.0.18",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.18.zip",
-  "checksum": "7bffb982dd50f95e606e5d0afea18be640393facea0e60e2955bb73c07ba3e35",
-  "notes": "La gráfica de la tasa ya no salta al cambiar de periodo. En Paneles, una franja muestra lo que incluye tu plan (Gratis o Básico) y avisa al llegar al límite.",
-  "date": "2026-10-24T04:55:25.510Z"
+  "version": "2.0.19",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.19.zip",
+  "checksum": "de495202acbe684fc76d751316bda8c3abe1ec54e5c9d7205f25213ab44c5d43",
+  "notes": "Cancelar y Rechazar en rojo. La barra de abajo ya no salta al abrir el teclado. Business Mode: Apertura como en Inicio, utilidad en anillo con cápsulas por etiqueta e ingreso bruto por semana con comparación contra el mes pasado.",
+  "date": "2026-10-24T22:02:48.204Z"
 }
