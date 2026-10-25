@@ -1,7 +1,7 @@
 {
-  "version": "2.0.24",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.24.zip",
-  "checksum": "19ec559483e3cdfb41253d660a1683b0de06f0795c643c7264d8afa3393ca215",
-  "notes": "Las ventanas se desvanecen en los bordes al deslizar, sin cuadro doble en Movimientos recientes, Ajustes y demás pantallas con vidrio dentro del Business Mode, etiquetas siempre lado a lado y el anillo de utilidad se desmarca solo.",
-  "date": "2026-10-25T01:44:14.571Z"
+  "version": "2.0.25",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.25.zip",
+  "checksum": "b53c78f0dba416feb86e6337a37031da0dcc687d8787c7252639c291faf18437",
+  "notes": "App más fluida: ventanas sin desenfoque mientras suben, brillos que no repintan, icono de Apertura solo cuando se ve, estela quieta al deslizar, Business Mode y versión de PC cargados aparte, listas largas por partes y entrada al Business Mode sin tirones.",
+  "date": "2026-10-25T02:16:50.418Z"
 }
