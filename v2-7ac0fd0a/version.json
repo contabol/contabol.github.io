@@ -1,7 +1,7 @@
 {
-  "version": "2.0.28",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.28.zip",
-  "checksum": "6c93c5a39338567651cdf4a5012c3794946ec1d2de7988011b53fff9cfa8967f",
-  "notes": "Ventanitas de nombre centradas, en iPhone nada se desliza detrás de una ventana y el cuadro queda sobre el teclado, sin autorrelleno de contactos, icono de Apertura sin pausas y estela más rápida.",
-  "date": "2026-10-25T04:53:30.549Z"
+  "version": "2.0.29",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.29.zip",
+  "checksum": "9af49a8cd2e27db490f8c513b9ef3521cc72f32e2365371780b6f931a819212c",
+  "notes": "Ahora se llama CountÜp. Nueva pantalla de entrada con la estela y vidrio, Iniciar sesión | Colaborador y '¿No tienes cuenta? Regístrate'.",
+  "date": "2026-10-25T20:01:47.943Z"
 }
