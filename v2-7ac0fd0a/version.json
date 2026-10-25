@@ -1,7 +1,7 @@
 {
-  "version": "2.0.26",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.26.zip",
-  "checksum": "c47530a4341603053a527af2fd38227acb5aef6549f3cc1cf5293e98a4be9d6c",
-  "notes": "Ventanas una sobre otra sin tirones al cerrarse el teclado, el + gira fluido, la estela se mueve siempre, el desenfoque de las ventanas entra poco a poco y los avisos y barras cambian suave.",
-  "date": "2026-10-25T02:26:53.817Z"
+  "version": "2.0.27",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.27.zip",
+  "checksum": "57414671e4f4add05c6a0d56222b3ac055cce54f3a8c32389fa778f20de76e6e",
+  "notes": "Preparación para iPhone: la app respeta la muesca y la barra de gestos del sistema cuando el teléfono no las informa.",
+  "date": "2026-10-25T02:37:11.971Z"
 }
