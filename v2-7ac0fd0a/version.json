@@ -1,7 +1,7 @@
 {
-  "version": "2.0.21",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.21.zip",
-  "checksum": "c56c06dfe26508d7f5b2acaeeaf89bb86b0123798db8650524826dcfd5906082",
-  "notes": "Business Mode: cifras de arriba en tarjetas de vidrio, barras de ingreso bruto sólidas y colores del anillo que no se confunden con la utilidad. Modo personal: vidrio más oscuro en modo oscuro, discos y buscador de vidrio, grises más legibles y la estela ya no se mueve al abrir el teclado.",
-  "date": "2026-10-24T22:41:01.784Z"
+  "version": "2.0.22",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.22.zip",
+  "checksum": "89f4abb2cd15f98473ea1da34b1375784b798692819394b83ea07698f76506d1",
+  "notes": "Ventanas de vidrio con desenfoque, etiquetas en cápsulas, 'Tipo de moneda', anillo de utilidad cerrado y vidrio en Reportes. Business Mode en vidrio sobre la estela, colores de empresa solo con Pro, resultado con degradado de la app, nuevo botón para cambiar de sede e indicadores con bloques.",
+  "date": "2026-10-25T00:53:17.837Z"
 }
