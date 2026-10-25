@@ -1,7 +1,7 @@
 {
-  "version": "2.0.29",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.29.zip",
-  "checksum": "9af49a8cd2e27db490f8c513b9ef3521cc72f32e2365371780b6f931a819212c",
-  "notes": "Ahora se llama CountÜp. Nueva pantalla de entrada con la estela y vidrio, Iniciar sesión | Colaborador y '¿No tienes cuenta? Regístrate'.",
-  "date": "2026-10-25T20:01:47.943Z"
+  "version": "2.0.30",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.30.zip",
+  "checksum": "3857d548f391ac2af14736372cc36db9679a139a9042c9b12c0f2735ea1e4bc8",
+  "notes": "Estado de cuenta en PDF, historial de notificaciones de 14 días, @usuario obligatorio al entrar por primera vez, confirmaciones sin transparencias y degradados sin cortes.",
+  "date": "2026-10-25T21:12:45.386Z"
 }
