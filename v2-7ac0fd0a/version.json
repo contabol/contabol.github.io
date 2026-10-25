@@ -1,7 +1,7 @@
 {
-  "version": "2.0.22",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.22.zip",
-  "checksum": "89f4abb2cd15f98473ea1da34b1375784b798692819394b83ea07698f76506d1",
-  "notes": "Ventanas de vidrio con desenfoque, etiquetas en cápsulas, 'Tipo de moneda', anillo de utilidad cerrado y vidrio en Reportes. Business Mode en vidrio sobre la estela, colores de empresa solo con Pro, resultado con degradado de la app, nuevo botón para cambiar de sede e indicadores con bloques.",
-  "date": "2026-10-25T00:53:17.837Z"
+  "version": "2.0.23",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.23.zip",
+  "checksum": "202e54ec77be3707af0140358c1905f3c118652a279081dff5cc7d35d2114048",
+  "notes": "Business Mode en el plan Básico (1 empresa, 1 sede, 2 colaboradores), resultado con degradado al 60 %, cápsulas de su tamaño, indicadores sin desvanecido y con fechas, montos a la derecha en movimientos, la app se adapta a teléfonos angostos, movimientos del Business Mode en vidrio y más aire en las tarjetas.",
+  "date": "2026-10-25T01:27:05.755Z"
 }
