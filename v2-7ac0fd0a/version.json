@@ -1,7 +1,7 @@
 {
-  "version": "2.0.27",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.27.zip",
-  "checksum": "57414671e4f4add05c6a0d56222b3ac055cce54f3a8c32389fa778f20de76e6e",
-  "notes": "Preparación para iPhone: la app respeta la muesca y la barra de gestos del sistema cuando el teléfono no las informa.",
-  "date": "2026-10-25T02:37:11.971Z"
+  "version": "2.0.28",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.28.zip",
+  "checksum": "6c93c5a39338567651cdf4a5012c3794946ec1d2de7988011b53fff9cfa8967f",
+  "notes": "Ventanitas de nombre centradas, en iPhone nada se desliza detrás de una ventana y el cuadro queda sobre el teclado, sin autorrelleno de contactos, icono de Apertura sin pausas y estela más rápida.",
+  "date": "2026-10-25T04:53:30.549Z"
 }
