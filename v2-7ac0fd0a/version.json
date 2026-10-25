@@ -1,7 +1,7 @@
 {
-  "version": "2.0.25",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.25.zip",
-  "checksum": "b53c78f0dba416feb86e6337a37031da0dcc687d8787c7252639c291faf18437",
-  "notes": "App más fluida: ventanas sin desenfoque mientras suben, brillos que no repintan, icono de Apertura solo cuando se ve, estela quieta al deslizar, Business Mode y versión de PC cargados aparte, listas largas por partes y entrada al Business Mode sin tirones.",
-  "date": "2026-10-25T02:16:50.418Z"
+  "version": "2.0.26",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.26.zip",
+  "checksum": "c47530a4341603053a527af2fd38227acb5aef6549f3cc1cf5293e98a4be9d6c",
+  "notes": "Ventanas una sobre otra sin tirones al cerrarse el teclado, el + gira fluido, la estela se mueve siempre, el desenfoque de las ventanas entra poco a poco y los avisos y barras cambian suave.",
+  "date": "2026-10-25T02:26:53.817Z"
 }
