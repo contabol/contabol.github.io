@@ -1,7 +1,7 @@
 {
-  "version": "2.0.36",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.36.zip",
-  "checksum": "342503e59dba349374bc497040609f448b4980fad33ce88a4ba018040aebd434",
-  "notes": "CountÜp V2 2.0.36: avisos push en Android (invitaciones, invitación aceptada, cierres de ventas y movimientos de otra persona en un panel compartido), aunque la app esté cerrada.",
-  "date": "2026-10-26T18:25:44.878Z"
+  "version": "2.0.37",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.37.zip",
+  "checksum": "42d0ccda374a7f2ce27435aa4ecee02235572a056cdada641b5b22a6836e18ed",
+  "notes": "CountÜp V2 2.0.37: tipografía TT Interphases Pro en Inicio, cerrar sesión ya no se queda pegado esperando los avisos, y avisos push de prueba en Herramientas de prueba.",
+  "date": "2026-10-26T22:32:59.713Z"
 }
