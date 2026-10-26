@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-D7nt2qnq.js","./dist-dUlp0iFe.js","./rolldown-runtime-B0Z9INg1.js"])))=>i.map(i=>d[i]);
+import{s as e}from"./dist-dUlp0iFe.js";import{o as t,s as n}from"./index-DDblpDap.js";n();var r=e(`Network`,{web:()=>t(()=>import(`./web-D7nt2qnq.js`).then(e=>new e.NetworkWeb),__vite__mapDeps([0,1,2]),import.meta.url)});export{r as Network};

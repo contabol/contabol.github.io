@@ -1,7 +1,7 @@
 {
-  "version": "2.0.31",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.31.zip",
-  "checksum": "08bdc8c821d8b2bcd09862570b3313cb5de4cc9defec7390c3fefbc1f9a6f46d",
-  "notes": "Colaborador en la V2 con la nueva estética, aviso de correo ya registrado, entrar con correo o @usuario, pagos recurrentes con recordatorios, aviso del plan por vencer, compartir tu panel personal con permisos, aviso de movimientos por subir sin internet, pantalla negra al cerrar sesión arreglada y estela más rápida.",
-  "date": "2026-10-26T01:56:18.332Z"
+  "version": "2.0.32",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.32.zip",
+  "checksum": "46dcbf547e68d6dc5d31f5aab54c3a2c03e407bafed2db4b32ad85337f08b185",
+  "notes": "CountÜp V2 2.0.32: compartir también los paneles personales extra (cupo total del plan), permisos y frecuencia con el color de la app, Ya lo pagué en morado suave y Registrar con degradado, Descargar PDF con degradado, cambio de claro a oscuro sin parpadeos, lo registrado sin internet sube solo al volver la conexión y vidrio en la tasa del colaborador.",
+  "date": "2026-10-26T03:26:37.361Z"
 }
