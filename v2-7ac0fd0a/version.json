@@ -1,7 +1,7 @@
 {
-  "version": "2.0.33",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.33.zip",
-  "checksum": "7f2f8035f15f447fab044c99684774a9b2b19af013fcf066c259a7e42aa97542",
-  "notes": "CountÜp V2 2.0.33: @usuario debajo del nombre en Ajustes, tasa del colaborador sin dorado, huella animada al lado de la contraseña en el teléfono y Usar llave de acceso en la PC, menú del Business Mode con vidrio y la sección activa en degradado, botones principales del Business Mode con degradado (Básico) o el color de la empresa (Pro), ingreso bruto con el color de la empresa (Pro), cifras del empleado con color y ventanas sin el cuadro oscuro.",
-  "date": "2026-10-26T16:51:55.250Z"
+  "version": "2.0.34",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.34.zip",
+  "checksum": "8c59e20a4fda950f17bd18947b92704d55a41c67f295cea0757fc86fb1743dfc",
+  "notes": "CountÜp V2 2.0.34: las ventanas responden más rápido al tocar (la pantalla de atrás no se redibuja y la estela se queda quieta mientras hay una ventana abierta) y el cambio entre claro y oscuro en el teléfono ya no se parte en cuadros.",
+  "date": "2026-10-26T17:22:59.117Z"
 }
