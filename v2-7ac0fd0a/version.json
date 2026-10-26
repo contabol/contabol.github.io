@@ -1,7 +1,7 @@
 {
-  "version": "2.0.34",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.34.zip",
-  "checksum": "8c59e20a4fda950f17bd18947b92704d55a41c67f295cea0757fc86fb1743dfc",
-  "notes": "CountÜp V2 2.0.34: las ventanas responden más rápido al tocar (la pantalla de atrás no se redibuja y la estela se queda quieta mientras hay una ventana abierta) y el cambio entre claro y oscuro en el teléfono ya no se parte en cuadros.",
-  "date": "2026-10-26T17:22:59.117Z"
+  "version": "2.0.35",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.35.zip",
+  "checksum": "d237f4ebd6d1c43148e2d657158fc88b896b8799d892883441a6039932147b0f",
+  "notes": "CountÜp V2 2.0.35: en el teléfono, el cambio entre claro y oscuro vuelve a ser la onda que revela la pantalla real, sin el aro luminoso (más liviana).",
+  "date": "2026-10-26T17:44:18.537Z"
 }
