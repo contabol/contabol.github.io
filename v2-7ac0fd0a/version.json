@@ -1,7 +1,7 @@
 {
-  "version": "2.0.35",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.35.zip",
-  "checksum": "d237f4ebd6d1c43148e2d657158fc88b896b8799d892883441a6039932147b0f",
-  "notes": "CountÜp V2 2.0.35: en el teléfono, el cambio entre claro y oscuro vuelve a ser la onda que revela la pantalla real, sin el aro luminoso (más liviana).",
-  "date": "2026-10-26T17:44:18.537Z"
+  "version": "2.0.36",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.36.zip",
+  "checksum": "342503e59dba349374bc497040609f448b4980fad33ce88a4ba018040aebd434",
+  "notes": "CountÜp V2 2.0.36: avisos push en Android (invitaciones, invitación aceptada, cierres de ventas y movimientos de otra persona en un panel compartido), aunque la app esté cerrada.",
+  "date": "2026-10-26T18:25:44.878Z"
 }
