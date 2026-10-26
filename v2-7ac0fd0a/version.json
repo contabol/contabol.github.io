@@ -1,7 +1,7 @@
 {
-  "version": "2.0.30",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.30.zip",
-  "checksum": "3857d548f391ac2af14736372cc36db9679a139a9042c9b12c0f2735ea1e4bc8",
-  "notes": "Estado de cuenta en PDF, historial de notificaciones de 14 días, @usuario obligatorio al entrar por primera vez, confirmaciones sin transparencias y degradados sin cortes.",
-  "date": "2026-10-25T21:12:45.386Z"
+  "version": "2.0.31",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.31.zip",
+  "checksum": "08bdc8c821d8b2bcd09862570b3313cb5de4cc9defec7390c3fefbc1f9a6f46d",
+  "notes": "Colaborador en la V2 con la nueva estética, aviso de correo ya registrado, entrar con correo o @usuario, pagos recurrentes con recordatorios, aviso del plan por vencer, compartir tu panel personal con permisos, aviso de movimientos por subir sin internet, pantalla negra al cerrar sesión arreglada y estela más rápida.",
+  "date": "2026-10-26T01:56:18.332Z"
 }
