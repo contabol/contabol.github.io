@@ -1,7 +1,7 @@
 {
-  "version": "2.0.37",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.37.zip",
-  "checksum": "42d0ccda374a7f2ce27435aa4ecee02235572a056cdada641b5b22a6836e18ed",
-  "notes": "CountÜp V2 2.0.37: tipografía TT Interphases Pro en Inicio, cerrar sesión ya no se queda pegado esperando los avisos, y avisos push de prueba en Herramientas de prueba.",
-  "date": "2026-10-26T22:32:59.713Z"
+  "version": "2.0.38",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.38.zip",
+  "checksum": "d993be050606c982f3a361bcbe0627d3fc5361af72f1a56bcca70c247d6296dc",
+  "notes": "CountÜp V2 2.0.38: estado de los avisos push en Herramientas de prueba (con Registrar de nuevo) y registro al abrir la app, permiso de notificaciones al abrir, límites de movimientos por plan con contador en Mi plan, y panel de CEO (ceo.html).",
+  "date": "2026-10-26T23:17:04.153Z"
 }
