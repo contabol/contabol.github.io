@@ -1,7 +1,7 @@
 {
-  "version": "2.0.40",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.40.zip",
-  "checksum": "57b84b58afbc34338bea0d376087cc8d8299c3f1d6784723560c4fd3d9422e82",
-  "notes": "Arreglo de los avisos: push, permiso al abrir y recordatorios de pagos y de plan",
-  "date": "2026-10-27T01:11:28.740Z"
+  "version": "2.0.41",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.41.zip",
+  "checksum": "fc0ed2cb97040d5f9e7f26f3530959fa9780b7f59e9c798ed3b1f501859d62a2",
+  "notes": "Ajustes sin tarjetas cortadas, nombre CountÜp sin V2 y diccionario de SQL en el panel de CEO",
+  "date": "2026-10-27T03:26:21.723Z"
 }
