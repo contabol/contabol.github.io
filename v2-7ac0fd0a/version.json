@@ -1,7 +1,7 @@
 {
-  "version": "2.0.41",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.41.zip",
-  "checksum": "fc0ed2cb97040d5f9e7f26f3530959fa9780b7f59e9c798ed3b1f501859d62a2",
-  "notes": "Ajustes sin tarjetas cortadas, nombre CountÜp sin V2 y diccionario de SQL en el panel de CEO",
-  "date": "2026-10-27T03:26:21.723Z"
+  "version": "2.0.42",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.42.zip",
+  "checksum": "f117c85214437387f221e18e6631799c8f5dbaf678b9f708ed887eb08bf35555",
+  "notes": "Arreglo urgente del guardado de movimientos, alerta del servidor en el panel de CEO y sin el botón de apagar los planes",
+  "date": "2026-10-27T19:10:24.293Z"
 }
