@@ -1,7 +1,7 @@
 {
-  "version": "2.0.43",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.43.zip",
-  "checksum": "a41e72415a082a3eb7fb0cfbfff909914e26a547f23faad7e6fe2a2e249290ee",
-  "notes": "Borrado automático nuevo, historial en PDF del Business Mode, todo carga de una vez, aviso No se pudo subir, colores de la app fuera de cada empresa y los detalles de la prueba completa",
-  "date": "2026-10-28T00:11:50.422Z"
+  "version": "2.0.44",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.44.zip",
+  "checksum": "decf3db85d91376c3154ccc8947d33ab5756d5ed6454c4fd3f438d5b5fabe90e",
+  "notes": "Lo pendiente de todos los paneles y sedes sube en segundo plano (también con la ventana o la app cerrada). Pagos recurrentes: Registrar, Ya lo pagué y Posponer desde el aviso sin abrir la app.",
+  "date": "2026-10-28T00:52:34.144Z"
 }
