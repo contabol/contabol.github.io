@@ -1,7 +1,7 @@
 {
-  "version": "2.0.48",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.48.zip",
-  "checksum": "a4e9571377df4ddbe72198dd35d9cae7c691eb845b5ebfe34bde9136a24f6f9f",
-  "notes": "Panel de CEO: elegir la apariencia (Automático, Claro u Oscuro).",
-  "date": "2026-10-28T02:33:12.809Z"
+  "version": "2.0.49",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.49.zip",
+  "checksum": "c68a4fe1b698e9fbbee46d0706786341477d2355f779969762761b8046daff44",
+  "notes": "Aviso de pago con Posponer, Ya lo pagué y Registrar con degradado; herramientas de prueba del aviso (de prueba y real).",
+  "date": "2026-10-28T02:46:36.558Z"
 }
