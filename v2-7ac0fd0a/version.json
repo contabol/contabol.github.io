@@ -1,7 +1,7 @@
 {
-  "version": "2.0.47",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.47.zip",
-  "checksum": "a9b31eebede1aa9379f293c8921a2efb16fdfe17b93a2b4ec80d591e673bddde",
-  "notes": "Ver en Bs o en dólares en el Business Mode, logo sin marco en la entrada, medallas con brillo suave, barra sin parpadeo al cambiar la apariencia, selectores con degradado y comparativa en el panel de CEO.",
-  "date": "2026-10-28T02:29:01.157Z"
+  "version": "2.0.48",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.48.zip",
+  "checksum": "a4e9571377df4ddbe72198dd35d9cae7c691eb845b5ebfe34bde9136a24f6f9f",
+  "notes": "Panel de CEO: elegir la apariencia (Automático, Claro u Oscuro).",
+  "date": "2026-10-28T02:33:12.809Z"
 }
