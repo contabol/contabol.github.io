@@ -1,7 +1,7 @@
 {
-  "version": "2.0.46",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.46.zip",
-  "checksum": "08725376088ee9fa18d494bc852a976006f5f5c928884d33547a814d8cc9e09c",
-  "notes": "Logo nuevo en el icono, insignias de los planes con la Ü, página de descarga de CountÜp y el nombre CountÜp en todos lados.",
-  "date": "2026-10-28T01:44:44.990Z"
+  "version": "2.0.47",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.47.zip",
+  "checksum": "a9b31eebede1aa9379f293c8921a2efb16fdfe17b93a2b4ec80d591e673bddde",
+  "notes": "Ver en Bs o en dólares en el Business Mode, logo sin marco en la entrada, medallas con brillo suave, barra sin parpadeo al cambiar la apariencia, selectores con degradado y comparativa en el panel de CEO.",
+  "date": "2026-10-28T02:29:01.157Z"
 }
