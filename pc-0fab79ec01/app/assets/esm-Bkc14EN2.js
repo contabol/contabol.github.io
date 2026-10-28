@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-DghLdwuz.js","./dist-dUlp0iFe.js","./rolldown-runtime-B0Z9INg1.js"])))=>i.map(i=>d[i]);
+import{r as e}from"./rolldown-runtime-B0Z9INg1.js";import{n as t,t as n}from"./preload-helper-BX4tuJAM.js";import{s as r}from"./dist-dUlp0iFe.js";var i=e({App:()=>a});t();var a=r(`App`,{web:()=>n(()=>import(`./web-DghLdwuz.js`).then(e=>new e.AppWeb),__vite__mapDeps([0,1,2]),import.meta.url)});export{i as n,a as t};
