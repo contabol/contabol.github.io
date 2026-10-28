@@ -1,7 +1,7 @@
 {
-  "version": "2.0.44",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.44.zip",
-  "checksum": "decf3db85d91376c3154ccc8947d33ab5756d5ed6454c4fd3f438d5b5fabe90e",
-  "notes": "Lo pendiente de todos los paneles y sedes sube en segundo plano (también con la ventana o la app cerrada). Pagos recurrentes: Registrar, Ya lo pagué y Posponer desde el aviso sin abrir la app.",
-  "date": "2026-10-28T00:52:34.144Z"
+  "version": "2.0.45",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/contabol-v2-2.0.45.zip",
+  "checksum": "18e28fc22b34cf506b6880a42478562d96fe61822d9ef2e77dfda0959aea2768",
+  "notes": "Logo nuevo: la Ü como marca de agua en el menú y en el botón del Business Mode.",
+  "date": "2026-10-28T01:33:30.206Z"
 }
