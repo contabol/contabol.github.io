@@ -1,0 +1,1 @@
+var e=[[`no-uso`,`Ya no la uso`],[`dificil`,`No me resultó fácil de usar`],[`falta`,`Le falta algo que necesito`],[`otra-app`,`Me cambié a otra app`],[`privacidad`,`Me preocupa la privacidad de mis datos`],[`otra-cuenta`,`Tengo otra cuenta`],[`otro`,`Otro`]],t=t=>(e.find(([e])=>e===t)||[null,t===`sin-razon`||!t?`Sin razón (versión anterior)`:t])[1];export{t as n,e as t};
