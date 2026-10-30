@@ -1,7 +1,7 @@
 {
-  "version": "2.0.49",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.49.zip",
-  "checksum": "c68a4fe1b698e9fbbee46d0706786341477d2355f779969762761b8046daff44",
-  "notes": "Aviso de pago con Posponer, Ya lo pagué y Registrar con degradado; herramientas de prueba del aviso (de prueba y real).",
-  "date": "2026-10-28T02:46:36.558Z"
+  "version": "2.0.50",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.50.zip",
+  "checksum": "77e60c63853f9c3f2d68314ff29908858a42b8ce257119381cad3518af08617f",
+  "notes": "Tipografía Plus Jakarta Sans en toda la app y aviso de pago compacto al llegar.",
+  "date": "2026-10-30T02:29:15.609Z"
 }
