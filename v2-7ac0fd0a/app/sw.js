@@ -1,7 +1,7 @@
 // Versión web instalable: guarda los archivos de la app para que abra sin internet.
 // Siempre intenta la red primero (así cada publicación llega al instante) y usa la copia si no hay conexión.
 // Solo toca archivos de la propia app: nunca las llamadas a Supabase ni a la tasa BCV.
-const CACHE = 'contabol-web'
+const CACHE = 'countup-web'
 
 self.addEventListener('install', () => self.skipWaiting())
 self.addEventListener('activate', (e) => e.waitUntil(self.clients.claim()))

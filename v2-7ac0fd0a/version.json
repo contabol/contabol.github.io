@@ -1,7 +1,7 @@
 {
-  "version": "2.0.53",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.53.zip",
-  "checksum": "33873e6c067e60546d0cfedf1d724716e5068f3b7e80b6f6d62949b77776ce3e",
-  "notes": "Sitio nuevo countup-app.github.io; herramientas de prueba en el panel de CEO; aviso de pago con botones desde el panel; aviso de conexión 5 s con salida hacia arriba; app abierta para todos.",
-  "date": "2026-10-31T15:34:36.158Z"
+  "version": "2.0.54",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.54.zip",
+  "checksum": "6fedc59875da802ac553cd334c88b8794d3d5d9303a55634693e58c051df2c33",
+  "notes": "CountÜp por todos lados por dentro: servidor countup_ (con puentes para Contábol V1 y APK viejos), datos del equipo, respaldos y aviso en las direcciones viejas.",
+  "date": "2026-10-31T16:51:00.652Z"
 }

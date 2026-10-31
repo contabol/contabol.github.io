@@ -11,23 +11,33 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <title>CountÜp</title>
     <script>
+      // CountÜp 2.0.54: lo guardado en este equipo pasa de "contabol:…" a "countup:…". Se copia una sola vez y lo viejo
+      // no se borra (si una actualización fallara y la app volviera a la versión anterior, lo encuentra donde estaba).
+      try {
+        if (!localStorage.getItem('countup:copiado')) {
+          var viejas = []
+          for (var i = 0; i < localStorage.length; i++) { var k = localStorage.key(i); if (k && k.indexOf('contabol:') === 0) viejas.push(k) }
+          viejas.forEach(function (k) { var n = 'countup:' + k.slice(9); if (localStorage.getItem(n) === null) localStorage.setItem(n, localStorage.getItem(k)) })
+          localStorage.setItem('countup:copiado', '1')
+        }
+      } catch (e) {}
       // El modo (claro u oscuro) se pone antes de dibujar nada, así la app abre directo en el que corresponde.
       // V2: una sola vez, cada equipo vuelve a "Automático" (el modo del teléfono o la PC); después se respeta lo que elija.
       try {
-        var doc = JSON.parse(localStorage.getItem('contabol:v1') || 'null')
-        if (!localStorage.getItem('contabol:v2:tema-auto')) {
+        var doc = JSON.parse(localStorage.getItem('countup:v1') || 'null')
+        if (!localStorage.getItem('countup:v2:tema-auto')) {
           if (doc && doc.settings && doc.settings.theme && doc.settings.theme !== 'system') {
             doc.settings.theme = 'system'
-            localStorage.setItem('contabol:v1', JSON.stringify(doc))
+            localStorage.setItem('countup:v1', JSON.stringify(doc))
           }
-          localStorage.setItem('contabol:v2:tema-auto', '1')
+          localStorage.setItem('countup:v2:tema-auto', '1')
         }
         var theme = (doc && doc.settings && doc.settings.theme) || 'system'
         if (theme === 'system') theme = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
         document.documentElement.setAttribute('data-theme', theme)
       } catch (e) {}
     </script>
-    <script type="module" crossorigin src="./assets/main-D0q0maNN.js"></script>
+    <script type="module" crossorigin src="./assets/main-BsXArGzu.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-B0Z9INg1.js">
     <link rel="modulepreload" crossorigin href="./assets/jsx-runtime-DpJIb57s.js">
     <link rel="modulepreload" crossorigin href="./assets/preload-helper-BX4tuJAM.js">
