@@ -1,7 +1,7 @@
 {
-  "version": "2.0.52",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.52.zip",
-  "checksum": "cf98f21df875cfba46618edbdc71f1a2da3e080fac5b45615bacc181db61eab6",
-  "notes": "Eliminar mi cuenta con razón, casilla de acuerdo y respaldo automático; eliminaciones en el panel de CEO.",
-  "date": "2026-10-30T18:53:41.444Z"
+  "version": "2.0.53",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.53.zip",
+  "checksum": "33873e6c067e60546d0cfedf1d724716e5068f3b7e80b6f6d62949b77776ce3e",
+  "notes": "Sitio nuevo countup-app.github.io; herramientas de prueba en el panel de CEO; aviso de pago con botones desde el panel; aviso de conexión 5 s con salida hacia arriba; app abierta para todos.",
+  "date": "2026-10-31T15:34:36.158Z"
 }
