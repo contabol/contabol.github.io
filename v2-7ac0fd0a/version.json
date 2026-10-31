@@ -1,7 +1,7 @@
 {
-  "version": "2.0.55",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.55.zip",
-  "checksum": "2deac83fe02083b9ef5890773852135082194c36133d3b36f866a84c0aa2b1be",
-  "notes": "App nueva para Android (com.countupapp.app, llave CountUp); la app vieja avisa para instalar la nueva.",
-  "date": "2026-10-31T17:22:57.694Z"
+  "version": "2.0.56",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.56.zip",
+  "checksum": "3defe3611bd859d2411450ebb86d92e617a70ab7ff7b5978e92721d60c9c087d",
+  "notes": "Panel de CEO: en pantallas angostas se ven todas las pestañas (Herramientas).",
+  "date": "2026-10-31T17:50:05.398Z"
 }
