@@ -1,7 +1,7 @@
 {
-  "version": "2.0.60",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.60.zip",
-  "checksum": "fe2c3dfd700bc5098f1f703a166acacedcb06fb5ad18f26bec86bf1ad534ea8f",
-  "notes": "Animación de inicio con los videos originales (claro y oscuro).",
-  "date": "2026-11-01T00:50:30.270Z"
+  "version": "2.0.61",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.61.zip",
+  "checksum": "eaae181d64fd7522ff460a4ef265cc536459263c97130b45de63aa99ac424efe",
+  "notes": "Al abrir: solo la animación, sin ícono de arranque, sin imagen gris ni barra de desplazamiento.",
+  "date": "2026-11-01T01:00:16.791Z"
 }
