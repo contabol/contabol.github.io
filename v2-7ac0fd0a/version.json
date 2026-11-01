@@ -1,7 +1,7 @@
 {
-  "version": "2.0.66",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.66.zip",
-  "checksum": "4990c44cdd802682968aa73b45a85e2aa06d4243c98116e4b706afa5e35c094a",
-  "notes": "Logo nuevo (la C) en todos lados; recordatorios de pagos desde el servidor a las 9:00; Registrar desde el aviso con plan B; Google acepta los términos al continuar",
-  "date": "2026-11-01T20:17:31.371Z"
+  "version": "2.0.67",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.67.zip",
+  "checksum": "9f92d3bd1ce06dd1e11c22d1fdcfe46e8eca9b5846501afd63f956804e4f7a14",
+  "notes": "Estado de cuenta en Excel; Apertura: continuar con el saldo del mes pasado; listo para Google Play",
+  "date": "2026-11-01T20:50:08.683Z"
 }
