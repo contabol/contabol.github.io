@@ -1,7 +1,7 @@
 {
-  "version": "2.0.68",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.68.zip",
-  "checksum": "93461a1ba7949b9da9206aecfb5db28b1ecdf068126603cc9810454aa8645cfc",
-  "notes": "Animación de inicio nueva; Ayúdanos a mejorar; histórico del BM con el cuadro de Business Mode; aviso de prueba que registra",
-  "date": "2026-11-01T22:23:07.163Z"
+  "version": "2.0.69",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.69.zip",
+  "checksum": "db2c6fcf75ba4e7e7d0a4d2b00c0bd0aebf0110768421ba6530bd5e1234acb18",
+  "notes": "Fondo quieto con el teclado; Apertura con saldo del mes pasado en el Business Mode; bandeja del SENIAT más limpia",
+  "date": "2026-11-01T22:53:41.323Z"
 }
