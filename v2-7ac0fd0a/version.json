@@ -1,7 +1,7 @@
 {
-  "version": "2.0.57",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.57.zip",
-  "checksum": "ee9e2d40239300c589bcc9861796eb48ac8250c8165179882b7d2f6c3bdaa6ec",
-  "notes": "Aviso de pago con Posponer y Registrar que cabe completo; sonido propio; avisos al momento; hasta 3 RIF; tasa BCV por días bancarios; punto de miles; ver contraseña; esqueleto de carga; histórico comercial; barra en iPhone; animación de inicio.",
-  "date": "2026-11-01T00:02:38.818Z"
+  "version": "2.0.58",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.58.zip",
+  "checksum": "2ea475f61d395439c1cb0d510f0071d64fe0f1de75d85ea1533188d577cfa3ca",
+  "notes": "Animación de inicio que no se congela en Android y centrada.",
+  "date": "2026-11-01T00:15:41.809Z"
 }
