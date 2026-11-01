@@ -1,7 +1,7 @@
 {
-  "version": "2.0.58",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.58.zip",
-  "checksum": "2ea475f61d395439c1cb0d510f0071d64fe0f1de75d85ea1533188d577cfa3ca",
-  "notes": "Animación de inicio que no se congela en Android y centrada.",
-  "date": "2026-11-01T00:15:41.809Z"
+  "version": "2.0.59",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.59.zip",
+  "checksum": "bc60b1e536e4984a8f739bd431a1ef31b9d1490e606775589437061f34112022",
+  "notes": "Animación de inicio calcada del video: desde abajo por el centro, girando.",
+  "date": "2026-11-01T00:19:35.506Z"
 }
