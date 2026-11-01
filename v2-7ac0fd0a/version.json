@@ -1,7 +1,7 @@
 {
-  "version": "2.0.67",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.67.zip",
-  "checksum": "9f92d3bd1ce06dd1e11c22d1fdcfe46e8eca9b5846501afd63f956804e4f7a14",
-  "notes": "Estado de cuenta en Excel; Apertura: continuar con el saldo del mes pasado; listo para Google Play",
-  "date": "2026-11-01T20:50:08.683Z"
+  "version": "2.0.68",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.68.zip",
+  "checksum": "93461a1ba7949b9da9206aecfb5db28b1ecdf068126603cc9810454aa8645cfc",
+  "notes": "Animación de inicio nueva; Ayúdanos a mejorar; histórico del BM con el cuadro de Business Mode; aviso de prueba que registra",
+  "date": "2026-11-01T22:23:07.163Z"
 }
