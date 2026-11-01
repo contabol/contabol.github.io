@@ -1,7 +1,7 @@
 {
-  "version": "2.0.65",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.65.zip",
-  "checksum": "25fbc44a8a0ed23d26e321598728585f360d6166f2a1c92ac049f39500a0ffcd",
-  "notes": "Términos, privacidad y eliminar cuenta en la web; casilla obligatoria al crear cuenta; enlaces en Ajustes",
-  "date": "2026-11-01T18:26:38.675Z"
+  "version": "2.0.66",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.66.zip",
+  "checksum": "4990c44cdd802682968aa73b45a85e2aa06d4243c98116e4b706afa5e35c094a",
+  "notes": "Logo nuevo (la C) en todos lados; recordatorios de pagos desde el servidor a las 9:00; Registrar desde el aviso con plan B; Google acepta los términos al continuar",
+  "date": "2026-11-01T20:17:31.371Z"
 }
