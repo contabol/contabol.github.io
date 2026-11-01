@@ -1,7 +1,7 @@
 {
-  "version": "2.0.64",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.64.zip",
-  "checksum": "7c48b49320384715187caa91c3fb1bd97238cdcf20fac72f9c75a87f26576e2d",
-  "notes": "Aviso de pago rediseñado: al llegar en una fila con logo, nombre, monto y botones en píldora; un solo ícono; plegado con el logo completo",
-  "date": "2026-11-01T18:06:09.772Z"
+  "version": "2.0.65",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.65.zip",
+  "checksum": "25fbc44a8a0ed23d26e321598728585f360d6166f2a1c92ac049f39500a0ffcd",
+  "notes": "Términos, privacidad y eliminar cuenta en la web; casilla obligatoria al crear cuenta; enlaces en Ajustes",
+  "date": "2026-11-01T18:26:38.675Z"
 }
