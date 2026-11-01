@@ -38,15 +38,33 @@
         document.documentElement.setAttribute('data-theme', theme)
       } catch (e) {}
     </script>
-    <script type="module" crossorigin src="./assets/main-COUTtJrX.js"></script>
+    <style>#arranque{z-index:9999;background:#0b0d11;place-items:center;transition:opacity .36s;display:grid;position:fixed;inset:0}:root[data-theme=light] #arranque{background:#f3f4f6}#arranque.sale{opacity:0;pointer-events:none}#arranque svg{filter:drop-shadow(0 0 14px #be3cff73);width:min(62vw,280px);height:auto;overflow:visible}#arranque .p{fill:#3d8bff;animation:none}#arranque .a{animation-name:arr-a}#arranque .b{animation-name:arr-b}#arranque .c{animation-name:arr-c}#arranque .u{stroke-dasharray:1;stroke-dashoffset:1px;animation:2.1s cubic-bezier(.55,0,.25,1) both arr-u}@keyframes arr-a{0%{opacity:0;fill:#3d8bff;transform:translate(60px,860px)}6%{opacity:1}18%{transform:translate(150px,520px)}30%{fill:#c21bff;transform:translate(236px,176px)}44%,to{fill:#c21bff;transform:translate(194px,136px)}}@keyframes arr-b{0%{opacity:0;fill:#3d8bff;transform:translate(116px,880px)}6%{opacity:1}18%{transform:translate(196px,500px)}30%{fill:#c21bff;transform:translate(276px,150px)}44%,to{fill:#c21bff;transform:translate(318px,136px)}}@keyframes arr-c{0%{opacity:0;fill:#3d8bff;transform:translate(80px,920px)}6%{opacity:1}18%{transform:translate(176px,560px)}30%{fill:#c21bff;animation-timing-function:cubic-bezier(.2,.6,.4,1);transform:translate(250px,200px)}40%{animation-timing-function:cubic-bezier(.6,0,.9,.5);transform:translate(230px,-720px)}60%{opacity:1;fill:#c21bff;transform:translate(178px,214px)}63%,to{opacity:0;fill:#c21bff;transform:translate(178px,214px)}}@keyframes arr-u{0%,59%{stroke-dashoffset:1px;opacity:0}60%{opacity:1}80%,to{stroke-dashoffset:0;opacity:1}}@media (prefers-reduced-motion:reduce){#arranque .p,#arranque .u{animation:none}#arranque .u{stroke-dashoffset:0}#arranque .c{opacity:0}#arranque .a{fill:#c21bff;transform:translate(194px,136px)}#arranque .b{fill:#c21bff;transform:translate(318px,136px)}}</style>
+    <script type="module" crossorigin src="./assets/main-BSVvjwmt.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-B0Z9INg1.js">
     <link rel="modulepreload" crossorigin href="./assets/jsx-runtime-DpJIb57s.js">
     <link rel="modulepreload" crossorigin href="./assets/preload-helper-BX4tuJAM.js">
     <link rel="modulepreload" crossorigin href="./assets/dist-dUlp0iFe.js">
     <link rel="stylesheet" crossorigin href="./assets/preload-helper-B_VMY_PD.css">
-    <link rel="stylesheet" crossorigin href="./assets/main-B0Zs4xYF.css">
+    <link rel="stylesheet" crossorigin href="./assets/main-DqlG2MmX.css">
   </head>
   <body>
+    <div id="arranque" aria-hidden="true">
+      <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+        <defs><linearGradient id="arr-g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c21bff" /><stop offset="1" stop-color="#7a5cff" /></linearGradient></defs>
+        <path class="u" pathLength="1" d="M178 214 V296 C178 352 210 388 256 388 C302 388 334 352 334 296 V214" fill="none" stroke="url(#arr-g)" stroke-width="50" stroke-linecap="round" />
+        <circle class="p a" r="27" /><circle class="p b" r="27" /><circle class="p c" r="25" />
+      </svg>
+    </div>
+    <script>
+      // Se va a los 2,1 s (o enseguida con "reducir movimiento") desvaneciéndose; la app ya cargó por detrás.
+      (function () {
+        var el = document.getElementById('arranque')
+        // La ventanita de "Continuar con Google" (vuelve a esta página) no lleva animación.
+        if (/state=popup/.test(location.hash + location.search)) { el.remove(); return }
+        var quieta = matchMedia('(prefers-reduced-motion: reduce)').matches
+        setTimeout(function () { el.classList.add('sale'); setTimeout(function () { el.remove() }, 400) }, quieta ? 700 : 2100)
+      })()
+    </script>
     <div id="root"></div>
   </body>
 </html>
