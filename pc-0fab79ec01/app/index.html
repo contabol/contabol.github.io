@@ -38,8 +38,8 @@
         document.documentElement.setAttribute('data-theme', theme)
       } catch (e) {}
     </script>
-    <style>#arranque{z-index:9999;background:#000;transition:opacity .36s;position:fixed;inset:0}:root[data-theme=light] #arranque{background:#fff}#arranque video{object-fit:contain;background:0 0;width:100%;height:100%;display:block}#arranque.sale{opacity:0;pointer-events:none}</style>
-    <script type="module" crossorigin src="./assets/main-BXv4vNBe.js"></script>
+    <style>#arranque{z-index:9999;background:#000;transition:opacity .36s;position:fixed;inset:0}:root[data-theme=light] #arranque{background:#fff}#arranque video{object-fit:contain;opacity:0;background:0 0;width:100%;height:100%;display:block}#arranque.va video{opacity:1}html.arrancando,html.arrancando body{overflow:hidden!important}#arranque.sale{opacity:0;pointer-events:none}</style>
+    <script type="module" crossorigin src="./assets/main-DNqJ-L8N.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-B0Z9INg1.js">
     <link rel="modulepreload" crossorigin href="./assets/jsx-runtime-DpJIb57s.js">
     <link rel="modulepreload" crossorigin href="./assets/preload-helper-BX4tuJAM.js">
@@ -48,7 +48,7 @@
     <link rel="stylesheet" crossorigin href="./assets/main-DqlG2MmX.css">
   </head>
   <body>
-    <div id="arranque" aria-hidden="true"><video muted playsinline preload="auto" disablepictureinpicture></video></div>
+    <div id="arranque" aria-hidden="true"><video muted playsinline preload="auto" disablepictureinpicture poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></video></div>
     <script>
       // Se va al terminar el video, desvaneciéndose (la app ya cargó por detrás). Si el video no puede reproducirse,
       // se va enseguida; y como mucho a los 6 s.
@@ -56,8 +56,10 @@
         var el = document.getElementById('arranque')
         // La ventanita de "Continuar con Google" (vuelve a esta página) no lleva animación.
         if (/state=popup/.test(location.hash + location.search)) { el.remove(); return }
-        var v = el.querySelector('video'), done = false
-        var fin = function () { if (done) return; done = true; el.classList.add('sale'); setTimeout(function () { el.remove() }, 400) }
+        var v = el.querySelector('video'), done = false, raiz = document.documentElement
+        raiz.classList.add('arrancando')
+        var fin = function () { if (done) return; done = true; el.classList.add('sale'); setTimeout(function () { el.remove(); raiz.classList.remove('arrancando') }, 400) }
+        v.addEventListener('playing', function () { el.classList.add('va') })
         v.src = document.documentElement.getAttribute('data-theme') === 'light' ? './arranque/claro.mp4' : './arranque/oscuro.mp4'
         v.addEventListener('ended', fin)
         v.addEventListener('error', fin)
