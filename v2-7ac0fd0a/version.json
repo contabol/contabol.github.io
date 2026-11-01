@@ -1,7 +1,7 @@
 {
-  "version": "2.0.62",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.62.zip",
-  "checksum": "2218e621aac1bdfe103a7556025ea65127e05b8957f5a8fa492d9f347fcd4f21",
-  "notes": "Versión de PC nueva para todos en /app.",
-  "date": "2026-11-01T01:12:26.218Z"
+  "version": "2.0.63",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.63.zip",
+  "checksum": "a836ab080472bf53a9e9458ee6cf0988f493df4ee0a553ed525557c68c68f666",
+  "notes": "La app vieja deja de recibir avisos: ya no llegan repetidos.",
+  "date": "2026-11-01T01:22:46.825Z"
 }
