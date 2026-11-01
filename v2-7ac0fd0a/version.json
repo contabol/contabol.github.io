@@ -1,7 +1,7 @@
 {
-  "version": "2.0.63",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.63.zip",
-  "checksum": "a836ab080472bf53a9e9458ee6cf0988f493df4ee0a553ed525557c68c68f666",
-  "notes": "La app vieja deja de recibir avisos: ya no llegan repetidos.",
-  "date": "2026-11-01T01:22:46.825Z"
+  "version": "2.0.64",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.64.zip",
+  "checksum": "7c48b49320384715187caa91c3fb1bd97238cdcf20fac72f9c75a87f26576e2d",
+  "notes": "Aviso de pago rediseñado: al llegar en una fila con logo, nombre, monto y botones en píldora; un solo ícono; plegado con el logo completo",
+  "date": "2026-11-01T18:06:09.772Z"
 }
