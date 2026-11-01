@@ -1,7 +1,7 @@
 {
-  "version": "2.0.61",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.61.zip",
-  "checksum": "eaae181d64fd7522ff460a4ef265cc536459263c97130b45de63aa99ac424efe",
-  "notes": "Al abrir: solo la animación, sin ícono de arranque, sin imagen gris ni barra de desplazamiento.",
-  "date": "2026-11-01T01:00:16.791Z"
+  "version": "2.0.62",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.62.zip",
+  "checksum": "2218e621aac1bdfe103a7556025ea65127e05b8957f5a8fa492d9f347fcd4f21",
+  "notes": "Versión de PC nueva para todos en /app.",
+  "date": "2026-11-01T01:12:26.218Z"
 }
