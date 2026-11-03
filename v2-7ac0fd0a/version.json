@@ -1,7 +1,7 @@
 {
-  "version": "2.0.69",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.69.zip",
-  "checksum": "db2c6fcf75ba4e7e7d0a4d2b00c0bd0aebf0110768421ba6530bd5e1234acb18",
-  "notes": "Fondo quieto con el teclado; Apertura con saldo del mes pasado en el Business Mode; bandeja del SENIAT más limpia",
-  "date": "2026-11-01T22:53:41.323Z"
+  "version": "2.0.70",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.70.zip",
+  "checksum": "86647b0d1bb12eff0c968e1949848ce5ae024376ecbad0fca872d8282fb2a5b4",
+  "notes": "Arreglo: la app ya no borra movimientos de la cuenta que nadie borró; panel de CEO con movimientos activos",
+  "date": "2026-11-03T17:20:21.429Z"
 }
