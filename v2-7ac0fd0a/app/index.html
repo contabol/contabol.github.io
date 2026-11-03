@@ -38,10 +38,10 @@
       } catch (e) {}
     </script>
     <style>#arranque{z-index:9999;background:#000;transition:opacity .36s;position:fixed;inset:0}:root[data-theme=light] #arranque{background:#fff}#arranque video{object-fit:contain;opacity:0;background:0 0;width:100%;height:100%;display:block}#arranque.va video{opacity:1}html.arrancando,html.arrancando body{overflow:hidden!important}#arranque.sale{opacity:0;pointer-events:none}</style>
-    <script type="module" crossorigin src="./assets/main-CX0VH0AA.js"></script>
+    <script type="module" crossorigin src="./assets/main-CJrY55FV.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-B0Z9INg1.js">
     <link rel="modulepreload" crossorigin href="./assets/jsx-runtime-DpJIb57s.js">
-    <link rel="modulepreload" crossorigin href="./assets/updater-CIMcUB-1.js">
+    <link rel="modulepreload" crossorigin href="./assets/updater-Cavq6Lp2.js">
     <link rel="stylesheet" crossorigin href="./assets/updater-B_VMY_PD.css">
     <link rel="stylesheet" crossorigin href="./assets/main-D-B3p844.css">
   </head>
@@ -50,13 +50,21 @@
     <script>
       // Se va al terminar el video, desvaneciéndose (la app ya cargó por detrás). Si el video no puede reproducirse,
       // se va enseguida; y como mucho a los 6 s.
+      // En los teléfonos más sencillos (4 núcleos o menos, o 4 GB de memoria o menos) la app no se carga mientras corre
+      // el video, para que no se trabe ni empiece tarde: se carga al terminar (src/main.jsx) y el video se queda en su
+      // último cuadro hasta que la app está lista (como mucho 3 s más).
       (function () {
         var el = document.getElementById('arranque')
+        var lento = (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4
+        var avisar, terminado = false, appLista = !lento
+        window.arranque = { lento: lento, termino: new Promise(function (r) { avisar = r }), lista: function () {} }
         // La ventanita de "Continuar con Google" (vuelve a esta página) no lleva animación.
-        if (/state=popup/.test(location.hash + location.search)) { el.remove(); return }
+        if (/state=popup/.test(location.hash + location.search)) { el.remove(); avisar(); return }
         var v = el.querySelector('video'), done = false, raiz = document.documentElement
         raiz.classList.add('arrancando')
-        var fin = function () { if (done) return; done = true; el.classList.add('sale'); setTimeout(function () { el.remove(); raiz.classList.remove('arrancando') }, 400) }
+        var salir = function () { if (done) return; done = true; el.classList.add('sale'); setTimeout(function () { el.remove(); raiz.classList.remove('arrancando') }, 400) }
+        var fin = function () { terminado = true; avisar(); if (appLista) salir(); else setTimeout(salir, 3000) }
+        window.arranque.lista = function () { appLista = true; if (terminado) salir() }
         v.addEventListener('playing', function () { el.classList.add('va') })
         v.src = document.documentElement.getAttribute('data-theme') === 'light' ? './arranque/claro.mp4' : './arranque/oscuro.mp4'
         v.addEventListener('ended', fin)
@@ -66,6 +74,6 @@
         setTimeout(fin, 6000)
       })()
     </script>
-    <div id="root"></div>
+    <div id="root"></div>
   </body>
 </html>

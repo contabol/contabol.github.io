@@ -1,7 +1,7 @@
 {
-  "version": "2.0.71",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.71.zip",
-  "checksum": "73a171b84066ec5583f969ed11dbed91dca9b192462e5b5625eeea190402a84f",
-  "notes": "Registro de borrados con su motivo; panel de CEO con Borrados y probar herramientas con cualquier @usuario",
-  "date": "2026-11-03T18:11:09.226Z"
+  "version": "2.0.72",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.72.zip",
+  "checksum": "9df9e00d9bfb02426f2676248fdc7bc05c8156faa737f005de8fb6fdc3beacc3",
+  "notes": "Arreglo de la caida al cerrar o iniciar sesion, campanita con todos los avisos, pagos recurrentes en el Business Mode y sedes, etiquetas en el formulario, arranque mas liviano",
+  "date": "2026-11-03T21:30:22.084Z"
 }
