@@ -1,7 +1,7 @@
 {
-  "version": "2.0.70",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.70.zip",
-  "checksum": "86647b0d1bb12eff0c968e1949848ce5ae024376ecbad0fca872d8282fb2a5b4",
-  "notes": "Arreglo: la app ya no borra movimientos de la cuenta que nadie borró; panel de CEO con movimientos activos",
-  "date": "2026-11-03T17:20:21.429Z"
+  "version": "2.0.71",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.71.zip",
+  "checksum": "73a171b84066ec5583f969ed11dbed91dca9b192462e5b5625eeea190402a84f",
+  "notes": "Registro de borrados con su motivo; panel de CEO con Borrados y probar herramientas con cualquier @usuario",
+  "date": "2026-11-03T18:11:09.226Z"
 }
