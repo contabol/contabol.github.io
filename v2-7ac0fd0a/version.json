@@ -1,7 +1,7 @@
 {
-  "version": "2.0.72",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.72.zip",
-  "checksum": "9df9e00d9bfb02426f2676248fdc7bc05c8156faa737f005de8fb6fdc3beacc3",
-  "notes": "Arreglo de la caida al cerrar o iniciar sesion, campanita con todos los avisos, pagos recurrentes en el Business Mode y sedes, etiquetas en el formulario, arranque mas liviano",
-  "date": "2026-11-03T21:30:22.084Z"
+  "version": "2.0.73",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.73.zip",
+  "checksum": "64e5135be74673874199ec000cd34dc15588482175ea5c11bd5c18a6afccfcf1",
+  "notes": "Business Mode: exportar e importar el respaldo de cada sede",
+  "date": "2026-11-04T02:33:29.303Z"
 }
