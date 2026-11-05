@@ -7,6 +7,8 @@
     <meta name="robots" content="noindex, nofollow" />
     <title>CountÜp · Panel de CEO</title>
     <script>
+      // Las direcciones viejas del panel llevan a la de CountÜp.
+      if (['contabol.github.io', 'gabrieldrawgames-jpg.github.io'].indexOf(location.hostname) !== -1) location.replace('https://countup-app.github.io/app/ceo.html')
       // CountÜp 2.0.54: lo guardado en este equipo pasa de "contabol:…" a "countup:…". Se copia una sola vez y lo viejo
       // no se borra (si una actualización fallara y la app volviera a la versión anterior, lo encuentra donde estaba).
       try {
