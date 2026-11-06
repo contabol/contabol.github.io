@@ -1,7 +1,7 @@
 {
-  "version": "2.0.73",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.73.zip",
-  "checksum": "64e5135be74673874199ec000cd34dc15588482175ea5c11bd5c18a6afccfcf1",
-  "notes": "Business Mode: exportar e importar el respaldo de cada sede",
-  "date": "2026-11-04T02:33:29.303Z"
+  "version": "2.0.74",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.74.zip",
+  "checksum": "9c0c1b92b446b8183caab55f83437543e9af719c6aa63b0f31952fd6dbfa1b49",
+  "notes": "Inicio nuevo del Business Mode, campanita sin duplicados, Registrar y Posponer arreglados, boton Atras del telefono, etiquetas globales, cierres con su total y el @ de quien los hizo, y la opcion de saldo de apertura al crear una sede",
+  "date": "2026-11-06T06:23:13.845Z"
 }
