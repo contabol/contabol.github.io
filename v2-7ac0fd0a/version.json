@@ -1,7 +1,7 @@
 {
-  "version": "2.0.75",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.75.zip",
-  "checksum": "8aebb19fc43f359dbed720e9f7454f2ddf68e85d37d3551791105bf3602c0454",
-  "notes": "Aviso de version nueva con la ventana oficial de Google Play",
-  "date": "2026-11-06T06:39:37.298Z"
+  "version": "2.0.76",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.76.zip",
+  "checksum": "f3afa5d680499d2c1cbcc660b8d11cc04a312d3e0c18c19917ccf6af15f62b64",
+  "notes": "Entrada en domino, Business Mode en PC con barra fija, boton flotante, pagos recurrentes unidos al +, monto fijo al cambiar de moneda",
+  "date": "2026-11-08T06:25:01.422Z"
 }
