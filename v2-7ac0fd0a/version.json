@@ -1,7 +1,7 @@
 {
-  "version": "2.0.76",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.76.zip",
-  "checksum": "f3afa5d680499d2c1cbcc660b8d11cc04a312d3e0c18c19917ccf6af15f62b64",
-  "notes": "Entrada en domino, Business Mode en PC con barra fija, boton flotante, pagos recurrentes unidos al +, monto fijo al cambiar de moneda",
-  "date": "2026-11-08T06:25:01.422Z"
+  "version": "2.0.77",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.77.zip",
+  "checksum": "b3c45eb833c4a96bcca91cdbdf2ba0e79d2b90bb60f4709b817ad9f5b9a41856",
+  "notes": "Arreglo de ventanas en PC, flecha flotante escondida con ventanas abiertas, Movimientos de hoy cuenta movimientos",
+  "date": "2026-11-08T18:22:34.716Z"
 }
