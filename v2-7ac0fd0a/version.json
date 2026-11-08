@@ -1,7 +1,7 @@
 {
-  "version": "2.0.77",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.77.zip",
-  "checksum": "b3c45eb833c4a96bcca91cdbdf2ba0e79d2b90bb60f4709b817ad9f5b9a41856",
-  "notes": "Arreglo de ventanas en PC, flecha flotante escondida con ventanas abiertas, Movimientos de hoy cuenta movimientos",
-  "date": "2026-11-08T18:22:34.716Z"
+  "version": "2.0.78",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.78.zip",
+  "checksum": "fd2807b95703eea13a7636a0ea7dd350d5d4f276777e319af9cc8b15d0686a29",
+  "notes": "Avisos de pagos separados con sus botones, deteccion de avisos bloqueados por la marca del telefono con Arreglarlo",
+  "date": "2026-11-08T19:01:56.237Z"
 }
