@@ -1,7 +1,7 @@
 {
-  "version": "2.0.78",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.78.zip",
-  "checksum": "fd2807b95703eea13a7636a0ea7dd350d5d4f276777e319af9cc8b15d0686a29",
-  "notes": "Avisos de pagos separados con sus botones, deteccion de avisos bloqueados por la marca del telefono con Arreglarlo",
-  "date": "2026-11-08T19:01:56.237Z"
+  "version": "2.0.79",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.79.zip",
+  "checksum": "d88d9f80c1aad00b4ec518ae7d3455511570c79a645202a0c6c1f4f93ab4015d",
+  "notes": "Registro en 8 pasos, tutoriales, Novedades, mas rapida, avisos de pago sin repetirse, Excel con diseno, colores parejos y entrada al BM sin Google",
+  "date": "2026-11-13T06:17:03.914Z"
 }

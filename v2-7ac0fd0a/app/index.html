@@ -37,19 +37,19 @@
         document.documentElement.setAttribute('data-theme', theme)
       } catch (e) {}
     </script>
-    <style>#arranque{z-index:9999;background:#000;transition:opacity .36s;position:fixed;inset:0}:root[data-theme=light] #arranque{background:#fff}#arranque video{object-fit:contain;opacity:0;background:0 0;width:100%;height:100%;display:block}#arranque.va video{opacity:1}html.arrancando,html.arrancando body{overflow:hidden!important}#arranque.sale{opacity:0;pointer-events:none}</style>
-    <script type="module" crossorigin src="./assets/main-CuYtSrZe.js"></script>
+    <style>#arranque{z-index:9999;background:#000;transition:opacity .36s;position:fixed;inset:0}:root[data-theme=light] #arranque{background:#fff}#arranque video{object-fit:contain;opacity:0;background:0 0;width:100%;height:100%;transition:opacity .22s;display:block}#arranque.va video{opacity:1}html.arrancando,html.arrancando body{overflow:hidden!important}#arranque.sale{opacity:0;pointer-events:none}</style>
+    <script type="module" crossorigin src="./assets/main-ItNnp0m6.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-B0Z9INg1.js">
     <link rel="modulepreload" crossorigin href="./assets/jsx-runtime-DpJIb57s.js">
-    <link rel="modulepreload" crossorigin href="./assets/updater-0houvR5A.js">
+    <link rel="modulepreload" crossorigin href="./assets/updater-BwsbMO_S.js">
     <link rel="stylesheet" crossorigin href="./assets/updater-B_VMY_PD.css">
-    <link rel="stylesheet" crossorigin href="./assets/main-w5Pvo1GS.css">
+    <link rel="stylesheet" crossorigin href="./assets/main-DdBinTN8.css">
   </head>
   <body>
     <div id="arranque" aria-hidden="true"><video muted playsinline preload="auto" disablepictureinpicture poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></video></div>
     <script>
       // Se va al terminar el video, desvaneciéndose (la app ya cargó por detrás). Si el video no puede reproducirse,
-      // se va enseguida; y como mucho a los 6 s.
+      // se va enseguida; y como mucho a los 7 s.
       // En los teléfonos más sencillos (4 núcleos o menos, o 4 GB de memoria o menos) la app no se carga mientras corre
       // el video, para que no se trabe ni empiece tarde: se carga al terminar (src/main.jsx) y el video se queda en su
       // último cuadro hasta que la app está lista (como mucho 3 s más).
@@ -65,13 +65,22 @@
         var salir = function () { if (done) return; done = true; el.classList.add('sale'); setTimeout(function () { el.remove(); raiz.classList.remove('arrancando') }, 400) }
         var fin = function () { terminado = true; avisar(); if (appLista) salir(); else setTimeout(salir, 3000) }
         window.arranque.lista = function () { appLista = true; if (terminado) salir() }
+        // Al principio el primer cuadro se queda quieto un momento (ESPERA) antes de arrancar: así, cuando el teléfono
+        // termina de quitar su pantalla de carga, la animación se ve desde el comienzo y no empieza a medias.
+        var ESPERA = 600, arranco = false
+        var arrancar = function () {
+          if (arranco) return; arranco = true
+          el.classList.add('va')
+          setTimeout(function () { var p = v.play(); if (p && p.catch) p.catch(fin) }, ESPERA)
+        }
         v.addEventListener('playing', function () { el.classList.add('va') })
+        v.addEventListener('loadeddata', arrancar)
         v.src = document.documentElement.getAttribute('data-theme') === 'light' ? './arranque/claro.mp4' : './arranque/oscuro.mp4'
         v.addEventListener('ended', fin)
         v.addEventListener('error', fin)
-        var p = v.play()
-        if (p && p.catch) p.catch(fin)
-        setTimeout(fin, 6000)
+        v.load()
+        setTimeout(arrancar, 1200) // si el teléfono no avisa que ya tiene el primer cuadro, arranca igual
+        setTimeout(fin, 7000)
       })()
     </script>
     <div id="root"></div>
