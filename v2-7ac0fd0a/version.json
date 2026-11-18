@@ -1,7 +1,8 @@
 {
-  "version": "2.0.79.1",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.79.1.zip",
-  "checksum": "3b2052e8e8216e5ad6ca254cdc213b43e8384b10e5edf96492c99ccd6d41e778",
-  "notes": "Términos actualizados (18+) y la PC sin tutoriales",
-  "date": "2026-11-16T03:00:19.883Z"
+  "version": "2.0.79.2",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.79.2.zip",
+  "checksum": "f7d5f409d12daf5929ddd50d5cef924e8d58086ec09a0f4fa012de98035410ee",
+  "signature": "HFOjk0ghk5kHGQ3LuYIAfnEzajn3/dEt20qLXT70BwF/CFGkbxZ27XOJYEMmA58ejVFCg8+QvL0A0RwUxVztCQ==",
+  "notes": "Correcciones de seguridad (auditoría), pregunta al abrir enlaces del correo, actualizaciones firmadas y el total de la PC con la Apertura",
+  "date": "2026-11-18T03:43:42.803Z"
 }
