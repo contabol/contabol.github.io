@@ -1,8 +1,8 @@
 {
-  "version": "2.0.79.2",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.79.2.zip",
-  "checksum": "f7d5f409d12daf5929ddd50d5cef924e8d58086ec09a0f4fa012de98035410ee",
-  "signature": "HFOjk0ghk5kHGQ3LuYIAfnEzajn3/dEt20qLXT70BwF/CFGkbxZ27XOJYEMmA58ejVFCg8+QvL0A0RwUxVztCQ==",
-  "notes": "Correcciones de seguridad (auditoría), pregunta al abrir enlaces del correo, actualizaciones firmadas y el total de la PC con la Apertura",
-  "date": "2026-11-18T03:43:42.803Z"
+  "version": "2.0.80",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.zip",
+  "checksum": "ec026bd99e18c5f9e3e18b16261742709b1cc9db08a469501ff081dc4b550705",
+  "signature": "yFjomDZVMW7F0H6FLxsehUXlmS7nxm8B/iB7fVdIXT+urFpVCG/YcFjCkrOAxqzGT5/L8I06Ttqd0stY+Ud6rQ==",
+  "notes": "Google Play: accesos en pausa por plan, fecha de los últimos 30 días, cajón de paneles, borrador, errores propios, Pro 5.000 por sede y QA",
+  "date": "2026-11-20T06:27:16.840Z"
 }
