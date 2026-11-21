@@ -1,8 +1,8 @@
 {
-  "version": "2.0.80.1",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.1.zip",
-  "checksum": "383676c5f5b39dc2497367ffc3b2c7f0333bd85b0e2aae0e2aad37fe44d64f1b",
-  "signature": "n0lbs5IE4BOyS0Z8yJGMtDi7h7xi5KI3FTrhlI84uvpSBT1xH4LekarGm4KoWJ76l54UjxSImCvxlmyyOkIPtw==",
-  "notes": "Pro sin límite en el Business Mode y de RIF, Omitir borrados sospechosos en el panel y la animación de arranque siempre",
-  "date": "2026-11-21T02:04:07.901Z"
+  "version": "2.0.80.2",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.2.zip",
+  "checksum": "f116dc73d4b9ca366807273f1d037481dcb10ba8ba28a04e2bb61942de940b30",
+  "signature": "6/6czL5a+DNJXnPAJDSR4FfoYS8M/KgkrOpS7xLG4HGlPCGUHz7cmiXT3en57Rgdv56wQiAdcHlTArkx/UhEgw==",
+  "notes": "Menú nuevo en la barra de abajo con la tarjeta del plan, Ajustes en el botón de arriba del Menú y la Biblioteca del panel",
+  "date": "2026-11-21T04:09:39.714Z"
 }
