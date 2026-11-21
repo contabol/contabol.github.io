@@ -1,8 +1,8 @@
 {
-  "version": "2.0.80.2",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.2.zip",
-  "checksum": "f116dc73d4b9ca366807273f1d037481dcb10ba8ba28a04e2bb61942de940b30",
-  "signature": "6/6czL5a+DNJXnPAJDSR4FfoYS8M/KgkrOpS7xLG4HGlPCGUHz7cmiXT3en57Rgdv56wQiAdcHlTArkx/UhEgw==",
-  "notes": "Menú nuevo en la barra de abajo con la tarjeta del plan, Ajustes en el botón de arriba del Menú y la Biblioteca del panel",
-  "date": "2026-11-21T04:09:39.714Z"
+  "version": "2.0.80.3",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.3.zip",
+  "checksum": "7aaa00ce63b4a3f4f8ed45c823eacf341106861b7316bf84fcb5deb9d90d8277",
+  "signature": "n4B4CAGre7NnyJLTAKj2XW2Xf5CrrHtFX4YPqod09jB9fO8UMHgpX1XEL6JpolnmhBcw5zxCN9F6wKHg2YfnXg==",
+  "notes": "Barra de abajo con hueco para el + y el resaltado recortado junto a él",
+  "date": "2026-11-21T04:21:44.724Z"
 }
