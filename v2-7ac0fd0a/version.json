@@ -1,8 +1,8 @@
 {
-  "version": "2.0.80.3",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.3.zip",
-  "checksum": "7aaa00ce63b4a3f4f8ed45c823eacf341106861b7316bf84fcb5deb9d90d8277",
-  "signature": "n4B4CAGre7NnyJLTAKj2XW2Xf5CrrHtFX4YPqod09jB9fO8UMHgpX1XEL6JpolnmhBcw5zxCN9F6wKHg2YfnXg==",
-  "notes": "Barra de abajo con hueco para el + y el resaltado recortado junto a él",
-  "date": "2026-11-21T04:21:44.724Z"
+  "version": "2.0.80.4",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.4.zip",
+  "checksum": "433e4e0b6e1f4f8e4088ee8016e78d7c54f0a330f1d05682921abd8588f8e228",
+  "signature": "naUTKyu0iMAlRrDIeZEth4n8YhJBes1CPocCHtFdmsNXcDGaXW35FQizHKPvdZr57E4FhPb3ivG9krFMtF/BUw==",
+  "notes": "Versión nueva en ventana obligatoria y desenfoque en el hueco de la barra",
+  "date": "2026-11-21T17:51:33.982Z"
 }
