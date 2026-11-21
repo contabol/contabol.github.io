@@ -37,16 +37,16 @@
         document.documentElement.setAttribute('data-theme', theme)
       } catch (e) {}
     </script>
-    <style>#arranque{z-index:9999;background:#000;transition:opacity .36s;position:fixed;inset:0}:root[data-theme=light] #arranque{background:#fff}#arranque video{object-fit:contain;opacity:0;background:0 0;width:100%;height:100%;transition:opacity .22s;display:block}#arranque.va video{opacity:1}html.arrancando,html.arrancando body{overflow:hidden!important}#arranque.sale{opacity:0;pointer-events:none}#arranque img{border-radius:24px;width:96px;height:96px;margin:-48px 0 0 -48px;transition:opacity .22s;position:absolute;top:50%;left:50%}#arranque.va img{opacity:0}</style>
-    <script type="module" crossorigin src="./assets/main-Bsg2xlXK.js"></script>
+    <style>#arranque{z-index:9999;background:#000;transition:opacity .36s;position:fixed;inset:0}:root[data-theme=light] #arranque{background:#fff}#arranque video{object-fit:contain;opacity:0;background:0 0;width:100%;height:100%;transition:opacity .22s;display:block}#arranque.va video{opacity:1}html.arrancando,html.arrancando body{overflow:hidden!important}#arranque.sale{opacity:0;pointer-events:none}</style>
+    <script type="module" crossorigin src="./assets/main-C3GywT9c.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-B0Z9INg1.js">
     <link rel="modulepreload" crossorigin href="./assets/jsx-runtime-DpJIb57s.js">
-    <link rel="modulepreload" crossorigin href="./assets/updater-BYVxxdMt.js">
+    <link rel="modulepreload" crossorigin href="./assets/updater-e8Y5MkjW.js">
     <link rel="stylesheet" crossorigin href="./assets/updater-B_VMY_PD.css">
     <link rel="stylesheet" crossorigin href="./assets/main-DEQSlQN4.css">
   </head>
   <body>
-    <div id="arranque" aria-hidden="true"><img src="./icon-192.png" alt="" width="96" height="96" /><video muted playsinline preload="auto" disablepictureinpicture poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></video></div>
+    <div id="arranque" aria-hidden="true"><video muted playsinline preload="auto" disablepictureinpicture poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></video></div>
     <script>
       // Se va al terminar el video, desvaneciéndose (la app ya cargó por detrás). Si el video no puede reproducirse,
       // se va enseguida; y como mucho a los 7 s.
@@ -65,12 +65,8 @@
         var salir = function () { if (done) return; done = true; el.classList.add('sale'); setTimeout(function () { el.remove(); raiz.classList.remove('arrancando') }, 400) }
         var fin = function () { terminado = true; avisar(); if (appLista) salir(); else setTimeout(salir, 3000) }
         window.arranque.lista = function () { appLista = true; if (terminado) salir() }
-        // El video completo se ve la primera vez (QA 18 nov: 4 s en cada apertura cansan). Después solo el logo, y la app
-        // entra apenas está lista.
-        var visto = false
-        try { visto = localStorage.getItem('countup:arranque-visto') === '1' } catch (e) {}
-        if (visto) { appLista = false; v.remove(); setTimeout(fin, 350); return } // espera a que la app avise que ya se dibujó
-        v.addEventListener('ended', function () { try { localStorage.setItem('countup:arranque-visto', '1') } catch (e) {} })
+        // La animación sale SIEMPRE, en cada apertura (decisión del usuario, 20 nov 2026: se había dejado solo la primera
+        // vez con el logo en las demás, y eso no va).
         // Al principio el primer cuadro se queda quieto un momento (ESPERA) antes de arrancar: así, cuando el teléfono
         // termina de quitar su pantalla de carga, la animación se ve desde el comienzo y no empieza a medias.
         var ESPERA = 600, arranco = false

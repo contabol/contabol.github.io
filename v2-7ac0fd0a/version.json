@@ -1,8 +1,8 @@
 {
-  "version": "2.0.80",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.zip",
-  "checksum": "ec026bd99e18c5f9e3e18b16261742709b1cc9db08a469501ff081dc4b550705",
-  "signature": "yFjomDZVMW7F0H6FLxsehUXlmS7nxm8B/iB7fVdIXT+urFpVCG/YcFjCkrOAxqzGT5/L8I06Ttqd0stY+Ud6rQ==",
-  "notes": "Google Play: accesos en pausa por plan, fecha de los últimos 30 días, cajón de paneles, borrador, errores propios, Pro 5.000 por sede y QA",
-  "date": "2026-11-20T06:27:16.840Z"
+  "version": "2.0.80.1",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.1.zip",
+  "checksum": "383676c5f5b39dc2497367ffc3b2c7f0333bd85b0e2aae0e2aad37fe44d64f1b",
+  "signature": "n0lbs5IE4BOyS0Z8yJGMtDi7h7xi5KI3FTrhlI84uvpSBT1xH4LekarGm4KoWJ76l54UjxSImCvxlmyyOkIPtw==",
+  "notes": "Pro sin límite en el Business Mode y de RIF, Omitir borrados sospechosos en el panel y la animación de arranque siempre",
+  "date": "2026-11-21T02:04:07.901Z"
 }
