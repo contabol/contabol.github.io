@@ -1,8 +1,8 @@
 {
-  "version": "2.0.80.4",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.80.4.zip",
-  "checksum": "433e4e0b6e1f4f8e4088ee8016e78d7c54f0a330f1d05682921abd8588f8e228",
-  "signature": "naUTKyu0iMAlRrDIeZEth4n8YhJBes1CPocCHtFdmsNXcDGaXW35FQizHKPvdZr57E4FhPb3ivG9krFMtF/BUw==",
-  "notes": "Versión nueva en ventana obligatoria y desenfoque en el hueco de la barra",
-  "date": "2026-11-21T17:51:33.982Z"
+  "version": "2.0.81",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.81.zip",
+  "checksum": "a35a1b612762dce6fb0847a1c0c1e4e7da5080d4bda791d7d3031acd817b3f85",
+  "signature": "+9FtRq6Bz4egAOOrAb09QwHdpltB1pWpRodY9ad+K90uORoum6XZPjkjDPMFTgI2ggbCEXkM+CaHJ9i4EMOVTA==",
+  "notes": "Primera versión de producción en Google Play",
+  "date": "2026-11-22T17:53:22.797Z"
 }

@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-BNkrbsGJ.js","./updater-4Yx2Cup7.js","./rolldown-runtime-B0Z9INg1.js","./jsx-runtime-DpJIb57s.js","./updater-B_VMY_PD.css"])))=>i.map(i=>d[i]);
-import{o as e,p as t,s as n}from"./updater-4Yx2Cup7.js";n();var r=t(`Network`,{web:()=>e(()=>import(`./web-BNkrbsGJ.js`).then(e=>new e.NetworkWeb),__vite__mapDeps([0,1,2,3,4]),import.meta.url)});export{r as Network};
