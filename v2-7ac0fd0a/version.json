@@ -1,8 +1,8 @@
 {
-  "version": "2.0.81.1",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.81.1.zip",
-  "checksum": "a69a79d03ae3f6745f8c81977168cebf08689b4ad5b4f556491880a5d653023a",
-  "signature": "IIkRnZMxGXXBz5dtBTl5AE8eWeMEab7gPyhDv+nCUyL9vnP12cXkd3QisplSsq7bp+Jqx5uyJOk7FA/Jze6TxA==",
-  "notes": "Sin internet salen los paneles, el Business Mode y el plan",
-  "date": "2026-11-24T19:19:51.382Z"
+  "version": "2.0.81.2",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.81.2.zip",
+  "checksum": "3c49adf439919f829c3b218d49ef2ba568be0446a418ed538d1ac9d612c5c239",
+  "signature": "Vjtmcs9IGHQJRZtw21vo8CqKgnhtjE2nb6J9noZbOjx2hVMtvgbpysmtGjPIeBngx8F2DHiJzn4vvpklvluzuQ==",
+  "notes": "Versión nueva al abrir la app, botón Buscar actualización y aviso de Google Play arreglado",
+  "date": "2026-11-24T19:29:57.187Z"
 }
