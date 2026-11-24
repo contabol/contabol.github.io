@@ -1,8 +1,8 @@
 {
-  "version": "2.0.81",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.81.zip",
-  "checksum": "a35a1b612762dce6fb0847a1c0c1e4e7da5080d4bda791d7d3031acd817b3f85",
-  "signature": "+9FtRq6Bz4egAOOrAb09QwHdpltB1pWpRodY9ad+K90uORoum6XZPjkjDPMFTgI2ggbCEXkM+CaHJ9i4EMOVTA==",
-  "notes": "Primera versión de producción en Google Play",
-  "date": "2026-11-22T17:53:22.797Z"
+  "version": "2.0.81.1",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.81.1.zip",
+  "checksum": "a69a79d03ae3f6745f8c81977168cebf08689b4ad5b4f556491880a5d653023a",
+  "signature": "IIkRnZMxGXXBz5dtBTl5AE8eWeMEab7gPyhDv+nCUyL9vnP12cXkd3QisplSsq7bp+Jqx5uyJOk7FA/Jze6TxA==",
+  "notes": "Sin internet salen los paneles, el Business Mode y el plan",
+  "date": "2026-11-24T19:19:51.382Z"
 }
