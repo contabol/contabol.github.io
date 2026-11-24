@@ -1,8 +1,8 @@
 {
-  "version": "2.0.81.2",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.81.2.zip",
-  "checksum": "3c49adf439919f829c3b218d49ef2ba568be0446a418ed538d1ac9d612c5c239",
-  "signature": "Vjtmcs9IGHQJRZtw21vo8CqKgnhtjE2nb6J9noZbOjx2hVMtvgbpysmtGjPIeBngx8F2DHiJzn4vvpklvluzuQ==",
-  "notes": "Versión nueva al abrir la app, botón Buscar actualización y aviso de Google Play arreglado",
-  "date": "2026-11-24T19:29:57.187Z"
+  "version": "2.0.82",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.82.zip",
+  "checksum": "93356cb34cc186119f3a19e0be66cf8eef7a2b298561712232d99413745f2580",
+  "signature": "Aiu7HLldH8szGtwe3M7/BnYBenigITXCWqM8SuOgvhJ6vXP0PAu9VnJ0lnfUV58BlBv8mPVg5w69eCfu9Wq+Rw==",
+  "notes": "Sin internet completo, mejoras al momento y Buscar actualización",
+  "date": "2026-11-24T19:37:56.634Z"
 }
