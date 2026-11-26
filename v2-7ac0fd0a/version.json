@@ -1,8 +1,8 @@
 {
-  "version": "2.0.82",
-  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.82.zip",
-  "checksum": "93356cb34cc186119f3a19e0be66cf8eef7a2b298561712232d99413745f2580",
-  "signature": "Aiu7HLldH8szGtwe3M7/BnYBenigITXCWqM8SuOgvhJ6vXP0PAu9VnJ0lnfUV58BlBv8mPVg5w69eCfu9Wq+Rw==",
-  "notes": "Sin internet completo, mejoras al momento y Buscar actualización",
-  "date": "2026-11-24T19:37:56.634Z"
+  "version": "2.0.82.1",
+  "url": "https://contabol.github.io/v2-7ac0fd0a/countup-2.0.82.1.zip",
+  "checksum": "f8b9a1ae28075d8402879f043809bc67d9ea482ee2ad084a128627d06d02c344",
+  "signature": "MCx4GTsdcdO8fsWKhhOwEWFpFaEzRZQ00CQu+EMJWbOh+pao8279pVtXRVa9FNozAfiEVSloiGBCcbwK96o4pQ==",
+  "notes": "Pagos recurrentes: confirmar antes de eliminar, Deshacer, sin vencidos al cambiar el horario y aviso al momento",
+  "date": "2026-11-26T02:46:08.508Z"
 }
